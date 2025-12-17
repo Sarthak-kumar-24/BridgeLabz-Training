@@ -5,29 +5,28 @@ import java.util.Scanner;
 
 
 public class TotalPurchasePrice {
-
     public static void main(String[] args) {
+         Scanner input = new Scanner(System.in);
 
-        // Create Scanner object for user input
-        Scanner input = new Scanner(System.in);
 
-        // Take unit price from user
+        // Taking  unit price and quantity from user
         double unitPrice = input.nextDouble();
-
-        // Take quantity from user
         int quantity = input.nextInt();
 
-        // Calculate total purchase price
+
+
+        // Calculating total purchase price
         double totalPrice = unitPrice  *  quantity;
 
-        // Display output
+
+
+        // Displaying the  output
         System.out.println(
                 "The total purchase price is INR " + totalPrice +
                 " if the quantity " + quantity +
                 " and unit price is INR " + unitPrice
         );
 
-        // Close scanner resource
-        input.close();
+      
     }
 }
