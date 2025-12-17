@@ -4,18 +4,20 @@ import java.util.Scanner;
 
 
 
-
 public class SquareSideFromPerimeter {
-
     public static void main(String[] args) {
-
          Scanner input = new Scanner(System.in);
+
 
         // Taking perimeter from user
         double perimeter = input.nextDouble();
 
+
+
         // Perimeter of square = 4 * side
         double side = perimeter / 4;
+
+
 
         // Displaying thr  result
         System.out.println(
@@ -23,7 +25,5 @@ public class SquareSideFromPerimeter {
                 " whose perimeter is " + perimeter
         );
 
-        // Close scanner
-        input.close();
-    }
+     }
 }
