@@ -4,14 +4,15 @@ import java.util.Scanner;
 
 
 public class TriangleArea {
-
     public static void main(String[] args) {
+          Scanner input = new Scanner(System.in);
 
-               Scanner input = new Scanner(System.in);
 
         // Taking  base and height in inches
         double base = input.nextDouble();
         double height = input.nextDouble();
+
+
 
         // Area of triangle formula: 1/2 * base * height
         double areaInSqInches = 0.5 * base * height;
@@ -20,13 +21,14 @@ public class TriangleArea {
         // So, 1 sq inch = (2.54 * 2.54) sq cm
         double areaInSqCm = areaInSqInches * 2.54 * 2.54;
 
+
+
         // Display output
         System.out.println(
                 "The area of triangle in square inches is " + areaInSqInches +
                 " and in square centimeters is " + areaInSqCm
         );
 
-        // Close scanner
-        input.close();
+
     }
 }
