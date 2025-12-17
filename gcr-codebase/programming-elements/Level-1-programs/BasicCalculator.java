@@ -5,22 +5,21 @@ import java.util.Scanner;
 
 
 public class BasicCalculator {
-
     public static void main(String[] args) {
 
-                Scanner input = new Scanner(System.in);
+          Scanner input = new Scanner(System.in);
 
-        // Taking first number input
+        // Taking  number inputs
         double number1 = input.nextDouble();
-
-        // Taking second number input
         double number2 = input.nextDouble();
+
 
         // Performing arithmetic operations
         double addition = number1 + number2;
         double subtraction = number1 - number2;
         double multiplication = number1 * number2;
         double division = number1 / number2;
+
 
         // Displaying  results in a single print statement
         System.out.println(
