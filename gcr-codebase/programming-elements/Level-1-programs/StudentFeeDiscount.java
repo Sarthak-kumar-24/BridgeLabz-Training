@@ -4,22 +4,21 @@ import java.util.Scanner;
 
 
 public class StudentFeeDiscount {
-
     public static void main(String[] args) {
-
          Scanner input = new Scanner(System.in);
 
-        // user input for fee amount
-        double fee = input.nextDouble();
 
-        //user input for discount percentage
+        // user input for fee amount, discount percentage
+        double fee = input.nextDouble();
         double discountPercent = input.nextDouble();
 
-        // Calculating discount amount
-        double discount = fee * ( discountPercent / 100);
 
-        // Calculating final fee after discount
+
+        // Calculating discount amount and final fee after discount
+        double discount = fee * ( discountPercent / 100);
         double finalFee = fee - discount;
+
+
 
         // Single print statement to display output
         System.out.println(
