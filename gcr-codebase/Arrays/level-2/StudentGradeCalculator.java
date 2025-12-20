@@ -61,26 +61,26 @@ class StudentGradeCalculator{
 
            // Assigning grade based on percentage
            if(percentages[i] >= 80){
-               grades[i] = "A";
+               grades[i] = 'A';
            }
            else if(percentages[i] >= 70){
-               grades[i] = "B";
+               grades[i] = 'B';
            }
 
            else if(percentages[i] >= 60){
-               grades[i] = "C";
+               grades[i] = 'C';
            }
 
            else if(percentages[i] >= 50){
-               grades[i] = "D";
+               grades[i] = 'D';
            }
 
            else if(percentages[i] >= 40){
-               grades[i] = "E";
+               grades[i] = 'E';
            }
 
            else{
-               grades[i] = "R";
+               grades[i] = 'R';
            }
        }
 
@@ -91,8 +91,8 @@ class StudentGradeCalculator{
            System.out.println("Physics :  "+       physics[i] );
            System.out.println("Chemistry  :"+   chemistry[i] );
            System.out.println("maths  :"+           maths[i] );
-           System.out.println("Percentage "+ percentages[i] +"%");
-           System.out.println("grade "+ grade[i] );
+           System.out.println("Percentage:  "+ percentages[i] +"%");
+           System.out.println("grade:  "+ grades[i] );
            System.out.println();
        }
 
