@@ -59,26 +59,26 @@ class StudentGradeCalculatorUsing2DArray{
 
            // Assigning grade based on percentage
            if(percentages[i] >= 80){
-               grades[i] = "A";
+               grades[i] = 'A';
            }
            else if(percentages[i] >= 70){
-               grades[i] = "B";
+               grades[i] = 'B"';
            }
 
            else if(percentages[i] >= 60){
-               grades[i] = "C";
+               grades[i] = 'C';
            }
 
            else if(percentages[i] >= 50){
-               grades[i] = "D";
+               grades[i] = 'D';
            }
 
            else if(percentages[i] >= 40){
-               grades[i] = "E";
+               grades[i] = 'E';
            }
 
            else{
-               grades[i] = "R";
+               grades[i] = 'R';
            }
        }
 
@@ -90,7 +90,7 @@ class StudentGradeCalculatorUsing2DArray{
            System.out.println("Chemistry  :"+   marks[i][1] );
            System.out.println("maths  :"+           marks[i][2] );
            System.out.println("Percentage "+ percentages[i] +"%");
-           System.out.println("grade "+ grade[i] );
+           System.out.println("grade "+ grades[i] );
            System.out.println();
        }
 
