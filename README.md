@@ -127,6 +127,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 - Practiced Java built-in functions.
 - Implemented utility programs such as:
   - Temperature Converter
+  - Time and Date functions
 - Improved understanding of:
   - Input handling
   - Type conversion
