@@ -78,3 +78,24 @@ Focused on understanding Java control flow mechanisms and applying logical const
 
 🔗 **Code Reference:**  
 👉 [Day 4 – Control Flow](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+
+
+### 📅 Day 5 – Arrays & Basic Problem Solving  
+**Date:** 20-Dec-2025  
+
+**Overview:**  
+Focused on understanding array concepts in Java and applying them to solve basic problem-solving scenarios.
+
+**Key Learnings:**
+- Studied arrays in Java:
+  - Single-dimensional arrays
+  - Multi-dimensional arrays
+- Practiced array traversal and common operations.
+- Solved problems related to:
+  - Finding missing elements
+  - Basic array-based logic
+- Strengthened logical thinking through array-based problems.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Reference:**  
+👉 [Day 5 – Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
