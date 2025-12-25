@@ -99,3 +99,22 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 🔗 **Code Reference:**  
 👉 [Day 5 – Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
+
+
+### 🗓 Day 6 – Strings & Methods  
+*(Date: 22-Dec-2025)*
+
+- Studied String concepts:
+  - String creation
+  - String methods
+  - Character processing
+- Implemented programs for string manipulation.
+- Studied Java methods:
+  - Method declaration
+  - Method calling
+  - Parameter passing
+- Practiced reusable logic using methods.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*  
+👉 [Day 6 – Strings & Methods](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
