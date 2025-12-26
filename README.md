@@ -23,13 +23,13 @@
 BridgeLabz-Training/
 │── core-java-practice/
 │ │── gcr-codebase/
-│ │ │── arrays/
+│ │ │── Arrays/
 │ │ │── control-flow/
-│ │ │── extras/
-│ │ │── methods/
+│ │ │── Extras/
+│ │ │── Methods/
 │ │ │── programming-elements/
 │ │ │── program-prerequisite/
-│ │ │── strings/
+│ │ │── Strings/
 │ │── leet-code-codebase/
 │ │── scenario-based-codebase/
 │── README.md
