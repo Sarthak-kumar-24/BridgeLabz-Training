@@ -27,4 +27,6 @@ java-oops-practice/
                  └── leveltwo/
 ```
 
+🔗 **Code Reference:**  
+👉 [Day 1 – Basic ClassandObjects Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
 ---
