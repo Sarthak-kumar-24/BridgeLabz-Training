@@ -1,1 +1,30 @@
-# BridgeLabz-Training
+# java Oops Practice 🚀
+
+## 📅 Week 2: Eclpise Java  and Java Oops Programming
+
+---
+
+### 📘 Day 1 – Eclipse Setup   and Oops fundamentals
+**Date:** 26-Dec-2025  
+
+- Installed and configured Eclipse on the local system.
+- Created and set up branch folders.
+- Understood Oops basics.
+- Practiced some problems such as :
+  - `Circle Program`
+  - `Employee Program`
+  - `Items Program`
+
+- Successfully pushed files to the remote repository.
+- 📂 **Repository Structure Overview**
+
+```
+java-oops-practice/
+└── gcr-codebase/
+     └── JavaOopsConcepts/
+           └── src/com/classandobjects
+                 ├── levelone/
+                 └── leveltwo/
+```
+
+---
