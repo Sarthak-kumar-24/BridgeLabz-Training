@@ -1,4 +1,4 @@
-# Core Java Practice 🚀
+# Core Java Practice
 
 ## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
@@ -19,8 +19,23 @@
 - Successfully pushed files to the remote repository.
 - 📂 **Repository Structure Overview**
 
-<img width="250" height="333" alt="image" src="https://github.com/user-attachments/assets/11460493-b2b9-495a-aabc-16b623abb6cc" />
+```
+BridgeLabz-Training/
+│── core-java-practice/
+│ │── gcr-codebase/
+│ │ │── arrays/
+│ │ │── control-flow/
+│ │ │── extras/
+│ │ │── methods/
+│ │ │── programming-elements/
+│ │ │── program-prerequisite/
+│ │ │── strings/
+│ │── leet-code-codebase/
+│ │── scenario-based-codebase/
+│── README.md
+```
 
+---
 
 ### 📅 Day 2 – Git Practice & Basic Java Programs  
 **Date:** 17-Dec-2025  
@@ -36,6 +51,7 @@ Focused on strengthening Git workflow understanding and writing basic Java progr
 🔗 **Code Reference:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
 
+---
 
 ### 📅 Day 3 – Programming Elements in Java  
 **Date:** 18-Dec-2025  
@@ -54,6 +70,7 @@ Focused on understanding the fundamental building blocks of Java programming and
 🔗 **Code Reference:**  
 👉 [Day 3 – Programming Elements](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
+---
 
 ### 📅 Day 4 – Control Flow & Logical Constructs  
 **Date:** 19-Dec-2025  
@@ -79,6 +96,7 @@ Focused on understanding Java control flow mechanisms and applying logical const
 🔗 **Code Reference:**  
 👉 [Day 4 – Control Flow](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
+---
 
 ### 📅 Day 5 – Arrays & Basic Problem Solving  
 **Date:** 20-Dec-2025  
@@ -100,6 +118,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 🔗 **Code Reference:**  
 👉 [Day 5 – Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
 
+---
 
 ### 🗓 Day 6 – Strings & Methods  
 *(Date: 22-Dec-2025)*
@@ -119,7 +138,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 🔗 *Code Link:*  
 👉 [Day 6 – Strings & Methods](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
-
+---
 
 ### 🗓 Day 7 – Built-in Functions & Extra Practice  
 *(Date: 23-Dec-2025)*
