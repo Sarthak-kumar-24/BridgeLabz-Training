@@ -155,3 +155,29 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 🔗 *Code Link:*  
 👉 [Day 7 – Built-in Functions](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+---
+
+
+## 📅 Week 2: Scenario-Based Problems & LeetCode Practice
+
+---
+
+### 📘 Day 1 – scenrio based and leetcode solved
+**Date:** 26-Dec-2025  
+
+- Practiced scenario-based Java problems focusing on real-world use cases.
+- Solved multiple LeetCode problems to strengthen problem-solving skills.
+- Understood repository structure and branching basics.
+- Some of the Practiced problems are :
+  - `Two Sum`
+  - `Median Sum Array`
+  - `BMIFitness Tracker program`
+  - `CoffeeCounter program`
+- Committed and pushed all changes successfully.
+
+- 🔗 **Code Reference:**  
+👉 [Day 1 – leetcode Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+👉 [Day 1 – Scenerio based Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
