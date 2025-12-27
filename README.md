@@ -1,4 +1,4 @@
-# java Oops Practice 🚀
+# Java Oops Practice 🚀
 
 ## 📅 Week 2: Eclpise Java  and Java Oops Programming
 
@@ -29,4 +29,23 @@ java-oops-practice/
 
 🔗 **Code Reference:**  
 👉 [Day 1 – Basic ClassandObjects Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
+
 ---
+
+### 📅 Day 2 –  Basic Java Constructors  
+**Date:** 27-Dec-2025  
+
+**Overview:**  
+Focused on strengthening constructors understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced constructors.
+- Solved basic Java programs to understand Java syntax and program structure.
+- Practiced Instance and class variables.
+- Practiced class specifc files creation.
+
+🔗 **Code Reference:**  
+👉 [Day 2 – Constructors](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
+
+---
+
