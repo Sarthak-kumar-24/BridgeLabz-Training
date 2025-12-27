@@ -37,7 +37,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Day 2 – Git Practice & Basic Java Programs  
+### 📘 Day 2 – Git Practice & Basic Java Programs  
 **Date:** 16-Dec-2025  
 
 **Overview:**  
@@ -53,7 +53,7 @@ Focused on strengthening Git workflow understanding and writing basic Java progr
 
 ---
 
-### 📅 Day 3 – Programming Elements in Java  
+### 📘 Day 3 – Programming Elements in Java  
 **Date:** 17-Dec-2025  
 
 **Overview:**  
@@ -72,7 +72,7 @@ Focused on understanding the fundamental building blocks of Java programming and
 
 ---
 
-### 📅 Day 4 – Control Flow & Logical Constructs  
+### 📘 Day 4 – Control Flow & Logical Constructs  
 **Date:** 18-Dec-2025  
 
 **Overview:**  
@@ -98,7 +98,7 @@ Focused on understanding Java control flow mechanisms and applying logical const
 
 ---
 
-### 📅 Day 5 – Arrays & Basic Problem Solving  
+### 📘 Day 5 – Arrays & Basic Problem Solving  
 **Date:** 19-Dec-2025  
 
 **Overview:**  
@@ -120,7 +120,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
-### 🗓 Day 6 – Methods  
+### 📘 Day 6 – Methods  
 *(Date: 20-Dec-2025)*
 
  - Studied Java methods:
@@ -141,7 +141,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 ## 📅 Week 2: Scenario-Based Problems & LeetCode Practice
 
 ---
-### 🗓 Day 7 – Java Strings  
+### 📘 Day 7 – Java Strings  
 *(Date: 22-Dec-2025)*
 
 - Studied String concepts:
@@ -189,15 +189,9 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
-### 🗓 Day 9 – Leetcode and Scenario-based questions  
+### 📘 Day 9 – Scenario-based questions  
 *(Date: 24-Dec-2025)*
   
-- Leetcode problems(Array problems):
-  - Two Sum
-  - Single Number
-  - Remove element
-  - Best time to buy and sell stock
-  - Majority element
 - Scenario-based problems:
   - The Coffee Counter Chronicles
   - Maya's BMI Fitness Tracker
@@ -205,18 +199,16 @@ Focused on understanding array concepts in Java and applying them to solve basic
 - Committed and pushed all changes successfully.
   
 🔗 Code Link:  
-👉 [Day 9 – Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 👉 [Day 9 – Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
 
 ---
-### 🗓 Day 10 – Leetcode and Scenario-based questions  
+
+### 📘 Day 10 – Leetcode and Scenario-based questions  
 *(Date: 26-Dec-2025)*
   
 - Leetcode problems(Array problems):
-  - Count Primes
-  - Find peak element
-  - Missing number
-  - Move zeroes
+  - Median Sorted Array
+  - Two Sum
 - Scenario-based problems:
   - Election Booth Manager
   - Metro Smart Card Fare Deduction
@@ -225,7 +217,23 @@ Focused on understanding array concepts in Java and applying them to solve basic
 - Committed and pushed all changes successfully.
   
 🔗 Code Link:  
-👉 [Day 10 – Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
-👉 [Day 10 – Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+-👉 [Day 10 – Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+-👉 [Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
+
+### 📘 Day 11 – Leetcode questions  
+*(Date: 27-Dec-2025)*
+  
+- Leetcode problems(Array problems):
+  - Four Sum
+  - Container with most water
+  - Three sum equals to zero
+  - Three sum closest
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 Code Link:  
+👉 [Day 11 – Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
 ---
