@@ -134,7 +134,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 - Committed and pushed solutions to the repository.
 
 🔗 *Code Link:*  
-👉 [Day 6 – Strings & Methods](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
+👉 [Day 6 –  Methods](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
 
 ---
 
@@ -185,7 +185,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 - Committed and pushed all changes successfully.
 
 - 🔗 **Code Reference:**  
-👉 [Day 1 – leetcode Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Extras)
+👉 [Day 1 – extras](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Extras)
 
 ---
 
