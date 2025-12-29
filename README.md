@@ -286,3 +286,44 @@ Focused on strengthening constructors understanding and writing Java programs to
 👉 [Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
 ---
+
+### 📘 Day 12 – Leetcode & Scenario questions  
+*(Date: 29-Dec-2025)*
+
+### core-java-practice branch
+**Overview:**
+- Leetcode problems(Array problems):
+  - Duplicates Remover
+  - Next Permutation
+  - Remove Element
+- Scenario-based problems:
+  - Discount
+  - Number Guessing Game
+  - parkingLot
+  - Phone Recharge
+  - Student Attendance
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+### java-oops-practice branch
+**Overview:**
+Focused on strengthening static keyword understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced probelms like
+  - University Student Management System
+  - Library Management System
+  - Employee Management System
+  - Shopping Cart System
+  - Vehicle Registration System
+  - Hospital Management System
+
+- Practiced Instance and class variables.
+- Practiced class specifc files creation.
+
+🔗 **Code Reference:**  
+👉 [Day 12 – Static and This keywords](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisandstatic/levelone)  
+👉 [Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+[Scenario](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
