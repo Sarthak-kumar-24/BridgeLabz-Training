@@ -164,3 +164,35 @@ Focused on understanding array concepts in Java and applying them to solve basic
 👉 [Day 7 – Strings](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 ---
+
+### 📘 Day 8 – Extra Built-in Functions & String Practice  
+**Date:** 23-Dec-2025  
+
+### core-java-practice branch
+**Overview:** 
+- Practiced Java built-in classes such as Math and Random.
+- Worked with date and time handling using Java 8+ date-time APIs:
+  - LocalDate
+  - LocalTime
+  - LocalDateTime
+  - ZonedDateTime
+  - DateTimeFormatter
+- Practiced String concepts including:
+  - Creating strings and taking string input
+  - Escape sequences (\)
+  - String arrays
+  - Strings as method parameters
+  - Built-in String class methods
+  - ASCII character codes
+- Studied Java exception handling concepts:
+  - Java exception hierarchy
+  - Checked and unchecked exceptions
+  - java.lang.RuntimeException
+- Implemented utility programs such as a temperature converter.
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+- 🔗 **Code Reference:**  
+👉 [Day 1 – extras](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Extras)
+
+---
