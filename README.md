@@ -182,7 +182,6 @@ Focused on understanding array concepts in Java and applying them to solve basic
 - Implemented utility programs such as a temperature converter.
 - Organized programs into appropriate folders.
 - Committed and pushed all changes successfully.
-- Committed and pushed all changes successfully.
 
 - 🔗 **Code Reference:**  
 👉 [Day 1 – extras](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Extras)
