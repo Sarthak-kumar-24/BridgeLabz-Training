@@ -196,3 +196,19 @@ Focused on understanding array concepts in Java and applying them to solve basic
 👉 [Day 1 – extras](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Extras)
 
 ---
+
+### 📘 Day 9 – Scenario-based questions  
+*(Date: 24-Dec-2025)*
+
+### core-java-practice branch
+**Overview:** 
+- Scenario-based problems:
+  - The Coffee Counter Chronicles
+  - Maya's BMI Fitness Tracker
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 Code Link:  
+👉 [Day 9 – Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
