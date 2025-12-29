@@ -252,8 +252,37 @@ java-oops-practice/
 ```
 
 🔗 **Code Reference:**  
--👉 [Day 1 – Basic Classand Objects Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects) 
--👉 [Day 10 – Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+👉 [Day 10 – Basic Classand Objects Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects) 
+👉 [Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 👉 [Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
+
+### 📘 Day 11 – Leetcode questions  
+*(Date: 27-Dec-2025)*
+
+### core-java-practice branch
+**Overview:** 
+- Leetcode problems(Array problems):
+  - Four Sum
+  - Container with most water
+  - Three sum equals to zero
+  - Three sum closest
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+### java-oops-practice branch
+**Overview:**  
+Focused on strengthening constructors understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced constructors.
+- Solved basic Java programs to understand Java syntax and program structure.
+- Practiced Instance and class variables.
+- Practiced class specifc files creation.
+
+🔗 **Code Reference:**  
+👉 [Day 11 – Constructors](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
+👉 [Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
 ---
