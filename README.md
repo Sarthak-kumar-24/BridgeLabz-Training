@@ -212,3 +212,48 @@ Focused on understanding array concepts in Java and applying them to solve basic
 👉 [Day 9 – Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
 
 ---
+
+### 📘 Day 10 – Leetcode and Scenario-based questions  
+*(Date: 26-Dec-2025)*
+
+### core-java-practice branch
+**Overview:** 
+- Leetcode problems(Array problems):
+  - Median Sorted Array
+  - Two Sum
+- Scenario-based problems:
+  - Election Booth Manager
+  - Metro Smart Card Fare Deduction
+  - Raj's Result Generator
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+
+### java-oops-practice branch
+**Overview:**
+- Installed and configured Eclipse on the local system.
+- Created and set up branch folders.
+- Understood Oops basics.
+- Practiced some problems such as :
+  - `Circle Program`
+  - `Employee Program`
+  - `Items Program`
+
+- Successfully pushed files to the remote repository.
+- 📂 **Repository Structure Overview**
+
+```
+java-oops-practice/
+└── gcr-codebase/
+     └── JavaOopsConcepts/
+           └── src/com/classandobjects
+                 ├── levelone/
+                 └── leveltwo/
+```
+
+🔗 **Code Reference:**  
+-👉 [Day 1 – Basic Classand Objects Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects) 
+-👉 [Day 10 – Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+👉 [Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
