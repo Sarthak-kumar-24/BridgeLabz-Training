@@ -141,3 +141,26 @@ Focused on understanding array concepts in Java and applying them to solve basic
 👉 [Day 6 –  Methods](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
 
 ---
+
+## 📅 Week 2: Scenario-Based Problems & LeetCode Practice
+
+---
+
+### 📘 Day 7 – Java Strings  
+*(Date: 22-Dec-2025)*
+
+### core-java-practice branch
+**Overview:**  
+- Studied String concepts:
+ - String creation
+ - String methods
+ - Character processing
+- Implemented programs for string manipulation.
+- Committed and pushed solutions to the repository.
+- Organized programs into proper folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 7 – Strings](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
+
+---
