@@ -121,3 +121,23 @@ Focused on understanding array concepts in Java and applying them to solve basic
 👉 [Day 5 – Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
 
 ---
+
+### 📘 Day 6 – Methods  
+*(Date: 20-Dec-2025)*
+
+### core-java-practice branch
+**Overview:**  
+ - Studied Java methods:
+   - Method declaration
+   - Method calling
+   - Parameter passing
+ - Practiced reusable logic using methods.
+ - Implemented programs for reusable methods.
+ - Committed and pushed solutions to the repository.
+- Practiced reusable logic using methods.
+- Committed and pushed solutions to the repository.
+
+🔗 *Code Link:*  
+👉 [Day 6 –  Methods](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)
+
+---
