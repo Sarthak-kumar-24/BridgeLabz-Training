@@ -32,3 +32,22 @@ BridgeLabz-Training/
 │ │── scenario-based-codebase/
 │── README.md
 ```
+
+---
+
+### 📘 Day 2 – Git Practice & Basic Java Programs  
+**Date:** 16-Dec-2025  
+
+# core-java-practice branch
+**Overview:**  
+Focused on strengthening Git workflow understanding and writing basic Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced Git workflow to understand commits and version control.
+- Solved basic Java programs to understand Java syntax and program structure.
+- Practiced adding, committing, and pushing Java files to GitHub.
+
+🔗 **Code Reference:**  
+👉 [Day 2 – Basic Java Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program-prerequisite)
+
+---
