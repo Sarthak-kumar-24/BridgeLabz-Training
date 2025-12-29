@@ -71,3 +71,28 @@ Focused on understanding the fundamental building blocks of Java programming and
 👉 [Day 3 – Programming Elements](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ---
+
+### 📘 Day 4 – Control Flow & Logical Constructs  
+**Date:** 18-Dec-2025  
+
+# core-java-practice branch
+**Overview:**  
+Focused on understanding Java control flow mechanisms and applying logical constructs to solve basic algorithmic problems.
+
+**Key Learnings:**
+- Studied logical constructs in Java:
+  - `if`, `if-else`
+  - `switch` statement
+  - Ternary operator
+- Practiced iteration statements:
+  - `for` loop
+  - `while` loop
+  - `do-while` loop
+- Used `break` and `continue` statements effectively.
+- Solved logical problems such as:
+  - Factorial calculation
+  - Prime number checking
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Reference:**  
+👉 [Day 4 – Control Flow](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
