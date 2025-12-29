@@ -38,7 +38,7 @@ BridgeLabz-Training/
 ### 📘 Day 2 – Git Practice & Basic Java Programs  
 **Date:** 16-Dec-2025  
 
-# core-java-practice branch
+### core-java-practice branch
 **Overview:**  
 Focused on strengthening Git workflow understanding and writing basic Java programs to get comfortable with syntax and structure.
 
@@ -55,7 +55,7 @@ Focused on strengthening Git workflow understanding and writing basic Java progr
 ### 📘 Day 3 – Programming Elements in Java  
 **Date:** 17-Dec-2025  
 
-# core-java-practice branch
+### core-java-practice branch
 **Overview:**  
 Focused on understanding the fundamental building blocks of Java programming and applying them through practice problems.
 
@@ -75,7 +75,7 @@ Focused on understanding the fundamental building blocks of Java programming and
 ### 📘 Day 4 – Control Flow & Logical Constructs  
 **Date:** 18-Dec-2025  
 
-# core-java-practice branch
+### core-java-practice branch
 **Overview:**  
 Focused on understanding Java control flow mechanisms and applying logical constructs to solve basic algorithmic problems.
 
@@ -96,3 +96,28 @@ Focused on understanding Java control flow mechanisms and applying logical const
 
 🔗 **Code Reference:**  
 👉 [Day 4 – Control Flow](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+
+---
+
+### 📘 Day 5 – Arrays & Basic Problem Solving  
+**Date:** 19-Dec-2025  
+
+### core-java-practice branch
+**Overview:**  
+Focused on understanding array concepts in Java and applying them to solve basic problem-solving scenarios.
+
+**Key Learnings:**
+- Studied arrays in Java:
+  - Single-dimensional arrays
+  - Multi-dimensional arrays
+- Practiced array traversal and common operations.
+- Solved problems related to:
+  - Finding missing elements
+  - Basic array-based logic
+- Strengthened logical thinking through array-based problems.
+- Committed and pushed solutions to the repository.
+
+🔗 **Code Reference:**  
+👉 [Day 5 – Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Arrays)
+
+---
