@@ -237,3 +237,26 @@ Focused on understanding array concepts in Java and applying them to solve basic
 👉 [Day 11 – Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
 ---
+
+### 📘 Day 12 – Leetcode & Scenario questions  
+*(Date: 29-Dec-2025)*
+  
+- Leetcode problems(Array problems):
+  - Duplicates Remover
+  - Next Permutation
+  - Remove Element
+- Scenario-based problems:
+  - Discount
+  - Number Guessing Game
+  - parkingLot
+  - Phone Recharge
+  - Student Attendance
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 Code Link:  
+-👉 [Day 12 – Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+-    [Day 12 – Scenario](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
+
