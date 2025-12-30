@@ -259,3 +259,19 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
+### 📘 Day 13 – Leetcode & Scenario questions  
+*(Date: 30-Dec-2025)*
+  
+- Scenario-based problems:
+  - Movie Ticket Booking App
+  - Rohan’s Library Reminder App
+  - Temperature Logger
+  - Train Reservation Queue 
+  - Sandeep’s Fitness Challenge Tracker
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 Code Link:  
+-    [Day 13 – Scenario](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
