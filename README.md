@@ -327,3 +327,37 @@ Focused on strengthening static keyword understanding and writing Java programs 
 [Scenario](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
 
 ---
+
+### 📘 Day 13 – Scenario & Object modelling questions  
+*(Date: 30-Dec-2025)*
+
+### core-java-practice branch
+**Overview:**
+- Scenario-based problems:
+  - Movie Ticket Booking App
+  - Rohan’s Library Reminder App
+  - Temperature Logger
+  - Train Reservation Queue 
+  - Sandeep’s Fitness Challenge Tracker
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+### java-oops-practice branch
+**Overview:**
+Focused on strengthening objects modelling understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced probelms like
+  -  Library and Books (Aggregation)
+  -  Bank and Account Holders (Association)
+  -  Company and Departments (Composition)
+  -  School and Students with Courses (Association and Aggregation)
+
+- Practiced objects, composition, aggregation, association rules
+- Practiced class specifc files creation.
+
+🔗 **Code Reference:**  
+👉 [Day 12 – object modelling](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling/levelone)  
+👉 [ Scenario ](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
