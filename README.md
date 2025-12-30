@@ -28,7 +28,7 @@ java-oops-practice/
 ```
 
 🔗 **Code Reference:**  
-👉 [Day 1 – Basic ClassandObjects Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
+👉 [Day 10 – Basic ClassandObjects Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/classandobjects)
 
 ---
 
@@ -45,7 +45,7 @@ Focused on strengthening constructors understanding and writing Java programs to
 - Practiced class specifc files creation.
 
 🔗 **Code Reference:**  
-👉 [Day 2 – Constructors](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
+👉 [Day 11 – Constructors](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructor/levelone)
 
 ---
 
@@ -72,7 +72,30 @@ Focused on strengthening static keyword understanding and writing Java programs 
 - Practiced class specifc files creation.
 
 🔗 **Code Reference:**  
-👉 [Day 2 – Static and This keywords](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisandstatic/levelone)
+👉 [Day 12 – Static and This keywords](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/thisandstatic/levelone)
+
+---
+
+### 📅 Day 13 –   Java Object Modeling 
+**Date:** 30-Dec-2025  
+
+**Overview:**  
+Focused on strengthening objects understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced probelms like
+  -  Library and Books (Aggregation)
+  -  Bank and Account Holders (Association)
+  -  Company and Departments (Composition)
+  -  School and Students with Courses (Association and Aggregation)
+  - Vehicle Registration System
+  - Hospital Management System
+
+- Practiced aggregation, association and composition.
+- Practiced class specifc files creation.
+
+🔗 **Code Reference:**  
+👉 [Day 13 – object modelling](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/objectmodelling/levelone)
 
 ---
 
