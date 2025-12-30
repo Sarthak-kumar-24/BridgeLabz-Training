@@ -80,7 +80,7 @@ Focused on strengthening static keyword understanding and writing Java programs 
 **Date:** 30-Dec-2025  
 
 **Overview:**  
-Focused on strengthening objects understanding and writing Java programs to get comfortable with syntax and structure.
+Focused on strengthening objects modelling understanding and writing Java programs to get comfortable with syntax and structure.
 
 **Key Learnings:**
 - Practiced probelms like
@@ -88,8 +88,6 @@ Focused on strengthening objects understanding and writing Java programs to get 
   -  Bank and Account Holders (Association)
   -  Company and Departments (Composition)
   -  School and Students with Courses (Association and Aggregation)
-  - Vehicle Registration System
-  - Hospital Management System
 
 - Practiced aggregation, association and composition.
 - Practiced class specifc files creation.
