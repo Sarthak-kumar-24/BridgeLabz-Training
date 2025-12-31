@@ -97,3 +97,23 @@ Focused on strengthening objects modelling understanding and writing Java progra
 
 ---
 
+### 📅 Day 14 –   Java Object Modeling 
+**Date:** 31-Dec-2025  
+
+**Overview:**  
+Focused on strengthening Inheritance understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced probelms like
+  -  hierarchical inheritance
+  -  Single Inheritance
+  -  Hybrid Inheritance
+  -  Multilevel inheritance
+
+- Practiced many problems in each of them
+- Practiced class specifc files creation.
+
+🔗 **Code Reference:**  
+👉 [Day 14 – inheritance](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)
+
+---
