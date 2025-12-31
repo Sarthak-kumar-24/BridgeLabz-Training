@@ -361,3 +361,37 @@ Focused on strengthening objects modelling understanding and writing Java progra
 👉 [ Scenario ](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
 
 ---
+
+### 📘 Day 14 – Scenario & Inheritance questions  
+*(Date: 31-Dec-2025)*
+
+### core-java-practice branch
+**Overview:**
+- Scenario-based problems:
+  - Currency Exchange Kiosk
+  - Bus Route Distance Tracker 
+  - Festival Lucky Draw
+  - Digital Watch Simulation 
+  - Online Quiz Application
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+### java-oops-practice branch
+**Overview:**
+Focused on strengthening Inheritance understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced probelms on
+  -  hierarchical inheritance
+  -  Single Inheritance
+  -  Hybrid Inheritance
+  -  Multilevel inheritance
+
+- Practiced many problems in each of them
+- Practiced class specifc files creation.
+
+🔗 **Code Reference:**  
+👉 [Day 12 – inheritance](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/inheritance)  
+👉 [ Scenario ](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
