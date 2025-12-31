@@ -275,3 +275,20 @@ Focused on understanding array concepts in Java and applying them to solve basic
 -    [Day 13 – Scenario](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
 
 ---
+
+### 📘 Day 14 – Scenario questions  
+*(Date: 31-Dec-2025)*
+  
+- Scenario-based problems:
+  - Currency Exchange Kiosk
+  - Bus Route Distance Tracker 
+  - Festival Lucky Draw
+  - Digital Watch Simulation 
+  - Online Quiz Application
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 Code Link:  
+-    [Day 14 – Scenario](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
