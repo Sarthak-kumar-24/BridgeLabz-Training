@@ -395,3 +395,26 @@ Focused on strengthening Inheritance understanding and writing Java programs to 
 👉 [ Scenario ](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
 
 ---
+
+### 📘 Day 15 – OOPs pillars  
+*(Date: 1-jan-2026)*
+
+### java-oops-practice branch
+**Overview:**  
+Focused on strengthening Polymorphism, abstraction, Encapsulation understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced problems like
+  -  Banking System
+  -  Employee Management System
+  -  Online Food Delivery System
+  -  Vehicle Rental System
+  -  and many more...
+
+- Practiced many problems in each of them
+- Practiced class, Object and Sequence Diagrams
+
+🔗 **Code Reference:**  
+👉 [Day 15 – encapsulationandpolymorphism](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+
+---
