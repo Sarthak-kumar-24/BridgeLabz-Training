@@ -418,3 +418,26 @@ Focused on strengthening Polymorphism, abstraction, Encapsulation understanding 
 👉 [Day 15 – encapsulationandpolymorphism](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 
 ---
+
+### 📘 Day 16 – OOPs pillars  
+*(Date: 2-jan-2026)*
+
+### java-oops-practice branch
+**Overview:**  
+Focused on strengthening Scenarios understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced problems like
+  -  E-Wallet-Application
+  -  Hospital Patient Management System
+  -  Smart Home Automation System
+  -  University Course Enrollment System
+  -  Vehicle Rental Application
+
+- Practiced many problems in each of them
+- Practiced class, Object 
+
+🔗 **Code Reference:**  
+👉 [Day 16 – Scenarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
+---
