@@ -161,3 +161,22 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 👉 [Day 16 – Scenarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
+
+### 📅 Day 17 –   Scenario-based problems 
+**Date:** 3-Jan-2026  
+
+**Overview:**  
+Focused on strengthening OOPs understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced problems like
+  -  CabbyGo – A Ride-Hailing App in the Making
+  -  MyBank – Managing Customer Accounts
+
+- Practiced many problems in each of them
+- Practiced class, Object 
+
+🔗 **Code Reference:**  
+👉 [Day 16 – Scenarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
+---
