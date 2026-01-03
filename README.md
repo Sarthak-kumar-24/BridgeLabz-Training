@@ -441,3 +441,50 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 👉 [Day 16 – Scenarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
+
+### 📘 Day 17 – Scenario & DSA questions  
+*(Date: 3-jan-2025)*
+
+### dsa-practice branch
+**Overview:**
+
+- Created and set up branch folders.
+- Understood DSA basics.
+- Practiced some problems such as :
+  - Hash Map
+  - Linked List
+  - Stacks and Queues
+
+- Successfully pushed files to the remote repository.
+- 📂 **Repository Structure Overview**
+
+```
+dsa-practice/
+└── gcr-codebase/
+     └── DSAPractice/
+           └── src/com/
+                 ├── linkedlist/
+                 └── stacksandqueue/
+                 └── hashmaps/
+```
+
+### java-oops-practice branch
+**Overview:**  
+Focused on strengthening OOPs understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced problems like
+  -  CabbyGo – A Ride-Hailing App in the Making
+  -  MyBank – Managing Customer Accounts
+
+- Practiced many problems in each of them
+- Practiced class, Object 
+
+🔗 **Code Reference:**  
+ 
+👉  [Day 17 – Linked-List Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linkedlist)
+    [Day 17 – HashMaps Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/hashmap)
+    [Day 17 – Stack and Queues Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stacksandqueues)
+    [Day-17 Scenario ](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
