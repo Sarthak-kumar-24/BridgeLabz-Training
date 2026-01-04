@@ -5,7 +5,7 @@
 ---
 
 ### 📘 Day 17 – DSA Practice of linked list and stack-queues
-**Date:** 26-Dec-2025  
+**Date:** 3-Jan-2026  
 
 - Created and set up branch folders.
 - Understood DSA basics.
