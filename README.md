@@ -50,7 +50,6 @@ dsa-practice/
   - Selection Sort
 
 - Successfully pushed files to the remote repository.
-- 📂 **Repository Structure Overview**
 
 
 🔗 **Code Reference:**  
