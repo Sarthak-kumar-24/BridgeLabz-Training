@@ -35,7 +35,7 @@ public class InventoryLinkedList {
     
     public void addAtEnd(int id, String name, int qty, double price) {
     	InventoryNode newNode = new InventoryNode(id, name, qty, price);
-
+  
         if (head == null) {
             head = newNode;
             return;
