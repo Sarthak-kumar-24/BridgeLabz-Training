@@ -488,3 +488,45 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
     [Day-17 Scenario ](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
 
 ---
+
+## 📅 Week 4: Scenario-Based Problems & LeetCode Practice & DSA
+
+---
+
+### 📘 Day 18 – Leetcode practice
+*(Date: 5-Jan-2026)*
+
+### dsa-practice branch
+**Overview:**  
+- Created and set up branch folders.
+- Understood DSA basics.
+- Practiced some problems such as :
+  - bubble Sort
+  - Quick Sort
+  - Insertion sort
+  - Selection Sort
+
+### core-java-practice branch
+**Overview:**  
+- leetcode-based problems:
+  - Expression matching program
+  - Letter Combination program 
+  - Longest Common Prefix
+ 
+### java-oops-practice branch
+**Overview:**
+- Understood Oops basics.
+- Practiced some problems such as :
+  - Campus Connect
+  - Swift Cart
+
+
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 18 – leetcode Strings](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Strings)
+ [Day 18 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+ [Day 18 – Sorting Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
+
+---
