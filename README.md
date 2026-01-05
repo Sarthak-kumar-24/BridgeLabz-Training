@@ -177,6 +177,25 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 - Practiced class, Object 
 
 🔗 **Code Reference:**  
-👉 [Day 16 – Scenarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+👉 [Day 17 – Scenarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
+---
+
+## 📅 Week 4: java Oops Based Scenarios
+
+---
+
+### 📘 Day 18 – Scenrioa Programs
+**Date:** 5-Jan-2025  
+
+- Understood Oops basics.
+- Practiced some problems such as :
+  - Campus Connect
+  - Swift Cart
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 18 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
