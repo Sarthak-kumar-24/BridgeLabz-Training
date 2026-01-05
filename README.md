@@ -237,6 +237,9 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
+## 📅 Week 3: Scenario-Based Problems & LeetCode Practice
+
+---
 ### 📘 Day 12 – Leetcode & Scenario questions  
 *(Date: 29-Dec-2025)*
   
@@ -290,5 +293,25 @@ Focused on understanding array concepts in Java and applying them to solve basic
   
 🔗 Code Link:  
 -    [Day 14 – Scenario](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/scenario-Based%20codebase)
+
+---
+
+## 📅 Week 4: LeetCode Practice
+
+---
+
+### 📘 Day 18 – leet code programs  
+*(Date: 5-jan-2025)*
+
+- leetcode-based problems:
+  - Expression matching program
+  - Letter Combination program 
+  - Longest Common Prefix
+
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 18 – leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 ---
