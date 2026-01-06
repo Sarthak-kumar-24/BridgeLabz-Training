@@ -530,3 +530,29 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
  [Day 18 – Sorting Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
 
 ---
+
+# 📘 Day 19 –Scenarios & String Builder,Buffer , Searching Practice  
+**Date:** 6 Jan 2026  
+
+---
+
+## 🌿 Branch-wise Work Summary
+
+|         Branch Name      |             Focus Area                          |                                                                                           Work Done                                                                                                                                            |
+|--------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **`dsa-practice`**       | Data Structures & Algorithms                    | • Set up branch-specific folders<br>• Revised DSA basics<br>• Implemented searching algorithms:<br>&nbsp;&nbsp;– Search2DMatrix<br>&nbsp;&nbsp;– FirstLastOccurrence<br>&nbsp;&nbsp;– FirstNegativeSearch<br>&nbsp;&nbsp;– PeakElement<br>•                                                                                            Implemented BufferedReader & Stream algorithms:<br>&nbsp;&nbsp;– ByteStreamToCharacterStream<br>&nbsp;&nbsp;– InputToFile<br>&nbsp;&nbsp;– PerformanceComparison<br>&nbsp;&nbsp;– ReadFileLineByLine                                           |      
+| **`java-oops-practice`** | Scenario-Based programs                         | • Practiced Scenario based programs <br>• Built mini-projects:<br>&nbsp;&nbsp;– EduMentor Personalized Learning Platform<br>&nbsp;&nbsp;– FitTrack Your Personal Fitness Tracker<br>&nbsp;&nbsp;– PetPal Virtual Pet Care App<br>&nbsp;&nbsp;–                                                                                        EventEase  Event Management Platform<br>• Organized programs into proper folders<br>• Committed & pushed all changes                                                                                                                            |
+
+
+
+## 🔗 Code Reference
+
+| Description                    |                                         Link                                                                    |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Day 19 – Scnarios              | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
+| Day 19 – Linear& Binear Search | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearandbinearsearch* |
+| Day 19 – StringBuilder& Buffer | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilderandbuffer* |
+| Day 19 – FileReader            | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/bufferedreader*         |
+
+---
+
