@@ -56,3 +56,24 @@ dsa-practice/
 👉 [Day 18 – Sorting Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/sorting)
 
 ---
+
+### 📘 Day 19 – DSA Practice of Searching, Buffer reader, String builders
+**Date:** 6-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics.
+- Practiced some problems such as :
+  - Buffer Reader, Stream input Readers
+  - String Builder and Buffer
+  - Linear Searches
+  - Binary Searches
+
+- Successfully pushed files to the remote repository.
+
+
+🔗 **Code Reference:**  
+👉 [Day 18 – Buffered Reader Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/bufferedreader)
+👉 [Day 18 – Searching Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearandbinearsearch)
+👉 [Day 18 – StringBuilder Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilderandbuffer)
+
+---
