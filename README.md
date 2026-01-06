@@ -1,8 +1,8 @@
-## 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+# 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
 
-### 📘 Day 1 – Git & GitHub Setup  
+## 📘 Day 1 – Git & GitHub Setup  
 **Date:** 15-Dec-2025  
 
 - Installed and configured Git on the local system.
@@ -35,7 +35,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📘 Day 2 – Git Practice & Basic Java Programs  
+## 📘 Day 2 – Git Practice & Basic Java Programs  
 **Date:** 16-Dec-2025  
 
 ### core-java-practice branch
@@ -52,7 +52,7 @@ Focused on strengthening Git workflow understanding and writing basic Java progr
 
 ---
 
-### 📘 Day 3 – Programming Elements in Java  
+## 📘 Day 3 – Programming Elements in Java  
 **Date:** 17-Dec-2025  
 
 ### core-java-practice branch
@@ -72,7 +72,7 @@ Focused on understanding the fundamental building blocks of Java programming and
 
 ---
 
-### 📘 Day 4 – Control Flow & Logical Constructs  
+## 📘 Day 4 – Control Flow & Logical Constructs  
 **Date:** 18-Dec-2025  
 
 ### core-java-practice branch
@@ -99,7 +99,7 @@ Focused on understanding Java control flow mechanisms and applying logical const
 
 ---
 
-### 📘 Day 5 – Arrays & Basic Problem Solving  
+## 📘 Day 5 – Arrays & Basic Problem Solving  
 **Date:** 19-Dec-2025  
 
 ### core-java-practice branch
@@ -122,7 +122,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
-### 📘 Day 6 – Methods  
+## 📘 Day 6 – Methods  
 *(Date: 20-Dec-2025)*
 
 ### core-java-practice branch
@@ -142,11 +142,11 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
-## 📅 Week 2: Scenario-Based Problems & LeetCode Practice
+# 📅 Week 2: Scenario-Based Problems & LeetCode Practice
 
 ---
 
-### 📘 Day 7 – Java Strings  
+## 📘 Day 7 – Java Strings  
 *(Date: 22-Dec-2025)*
 
 ### core-java-practice branch
@@ -165,7 +165,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
-### 📘 Day 8 – Extra Built-in Functions & String Practice  
+## 📘 Day 8 – Extra Built-in Functions & String Practice  
 **Date:** 23-Dec-2025  
 
 ### core-java-practice branch
@@ -197,7 +197,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
-### 📘 Day 9 – Scenario-based questions  
+## 📘 Day 9 – Scenario-based questions  
 *(Date: 24-Dec-2025)*
 
 ### core-java-practice branch
@@ -213,7 +213,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 
 ---
 
-### 📘 Day 10 – Leetcode and Scenario-based questions  
+## 📘 Day 10 – Leetcode and Scenario-based questions  
 *(Date: 26-Dec-2025)*
 
 ### core-java-practice branch
@@ -258,7 +258,7 @@ java-oops-practice/
 
 ---
 
-### 📘 Day 11 – Leetcode questions  
+## 📘 Day 11 – Leetcode questions  
 *(Date: 27-Dec-2025)*
 
 ### core-java-practice branch
@@ -287,7 +287,7 @@ Focused on strengthening constructors understanding and writing Java programs to
 
 ---
 
-### 📘 Day 12 – Leetcode & Scenario questions  
+## 📘 Day 12 – Leetcode & Scenario questions  
 *(Date: 29-Dec-2025)*
 
 ### core-java-practice branch
@@ -328,7 +328,7 @@ Focused on strengthening static keyword understanding and writing Java programs 
 
 ---
 
-### 📘 Day 13 – Scenario & Object modelling questions  
+## 📘 Day 13 – Scenario & Object modelling questions  
 *(Date: 30-Dec-2025)*
 
 ### core-java-practice branch
@@ -362,7 +362,7 @@ Focused on strengthening objects modelling understanding and writing Java progra
 
 ---
 
-### 📘 Day 14 – Scenario & Inheritance questions  
+## 📘 Day 14 – Scenario & Inheritance questions  
 *(Date: 31-Dec-2025)*
 
 ### core-java-practice branch
@@ -396,7 +396,7 @@ Focused on strengthening Inheritance understanding and writing Java programs to 
 
 ---
 
-### 📘 Day 15 – OOPs pillars  
+## 📘 Day 15 – OOPs pillars  
 *(Date: 1-jan-2026)*
 
 ### java-oops-practice branch
@@ -419,7 +419,7 @@ Focused on strengthening Polymorphism, abstraction, Encapsulation understanding 
 
 ---
 
-### 📘 Day 16 – OOPs pillars  
+## 📘 Day 16 – OOPs pillars  
 *(Date: 2-jan-2026)*
 
 ### java-oops-practice branch
@@ -442,7 +442,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 
 ---
 
-### 📘 Day 17 – Scenario & DSA questions  
+## 📘 Day 17 – Scenario & DSA questions  
 *(Date: 3-jan-2025)*
 
 ### dsa-practice branch
@@ -489,11 +489,11 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 
 ---
 
-## 📅 Week 4: Scenario-Based Problems & LeetCode Practice & DSA
+# 📅 Week 4: Scenario-Based Problems & LeetCode Practice & DSA
 
 ---
 
-### 📘 Day 18 – Leetcode practice
+## 📘 Day 18 – Leetcode practice
 *(Date: 5-Jan-2026)*
 
 ### dsa-practice branch
@@ -531,21 +531,21 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 
 ---
 
-# 📘 Day 19 –Scenarios & String Builder,Buffer , Searching Practice  
+## 📘 Day 19 –Scenarios & String Builder,Buffer , Searching Practice  
 **Date:** 6 Jan 2026  
 
 ---
 
-## 🌿 Branch-wise Work Summary
+### 🌿 Branch-wise Work Summary
 
 |         Branch Name      |             Focus Area                          |                                                                                           Work Done                                                                                                                                            |
-|--------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **`dsa-practice`**       | Data Structures & Algorithms                    | • Set up branch-specific folders<br>• Revised DSA basics<br>• Implemented searching algorithms:<br>&nbsp;&nbsp;– Search2DMatrix<br>&nbsp;&nbsp;– FirstLastOccurrence<br>&nbsp;&nbsp;– FirstNegativeSearch<br>&nbsp;&nbsp;– PeakElement<br>•                                                                                            Implemented BufferedReader & Stream algorithms:<br>&nbsp;&nbsp;– ByteStreamToCharacterStream<br>&nbsp;&nbsp;– InputToFile<br>&nbsp;&nbsp;– PerformanceComparison<br>&nbsp;&nbsp;– ReadFileLineByLine                                           |      
+|--------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| **`dsa-practice`**       | Data Structures & Algorithms                    | • Set up branch-specific folders<br>• Revised DSA basics<br>• Implemented searching algorithms:<br>&nbsp;&nbsp;– FirstLastOccurrence<br>&nbsp;&nbsp;– FirstNegativeSearch<br>&nbsp;&nbsp;– PeakElement<br>• Implemented BufferedReader & Stream algorithms:<br>&nbsp;&nbsp;– ByteStreamToCharacterStream<br>&nbsp;&nbsp;– InputToFile<br>&nbsp;&nbsp;– PerformanceComparison |
 | **`java-oops-practice`** | Scenario-Based programs                         | • Practiced Scenario based programs <br>• Built mini-projects:<br>&nbsp;&nbsp;– EduMentor Personalized Learning Platform<br>&nbsp;&nbsp;– FitTrack Your Personal Fitness Tracker<br>&nbsp;&nbsp;– PetPal Virtual Pet Care App<br>&nbsp;&nbsp;–                                                                                        EventEase  Event Management Platform<br>• Organized programs into proper folders<br>• Committed & pushed all changes                                                                                                                            |
 
 
 
-## 🔗 Code Reference
+### 🔗 Code Reference
 
 | Description                    |                                         Link                                                                    |
 |--------------------------------|-----------------------------------------------------------------------------------------------------------------|
