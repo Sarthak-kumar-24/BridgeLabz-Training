@@ -199,3 +199,20 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 👉 [Day 18 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
+
+### 📘 Day 19 – Scenrios Programs
+**Date:** 6-Jan-2025  
+
+- Understood Oops basics.
+- Practiced some problems such as :
+  - PetPal – Virtual Pet Care App
+  - EventEase – Event Management Platform
+  - EduMentor – Personalized Learning Platform
+  - FitTrack – Your Personal Fitness Tracker
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 19 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
+---
