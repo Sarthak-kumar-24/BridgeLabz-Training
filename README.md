@@ -556,3 +556,25 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 
 ---
 
+## 📘 Day 20 – Runtime Analysis & Scenario Programs  
+**Date:** 7 Jan 2026  
+
+---
+
+### 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|------------|-----------|
+| **`dsa-practice`** | Runtime Analysis & DSA | • Created and structured branch folders<br>• Revised DSA fundamentals<br>• Practiced runtime-focused problems:<br>&nbsp;&nbsp;– Search a Target in a Large Dataset<br>&nbsp;&nbsp;– Sorting Large Data Efficiently<br>&nbsp;&nbsp;– String Concatenation Performance<br>&nbsp;&nbsp;– Large File Reading Efficiency<br>&nbsp;&nbsp;– Recursive vs Iterative Fibonacci<br>&nbsp;&nbsp;– Comparing Data Structures for Searching<br>• Analyzed time complexity and performance trade-offs<br>• Committed & pushed changes |
+| **`java-oops-practice`** | Scenario-Based OOP Programs | • Revised OOP fundamentals<br>• Implemented real-world scenario programs:<br>&nbsp;&nbsp;– ParkEase – Smart Parking Management System<br>&nbsp;&nbsp;– LoanBuddy – Loan Approval Automation<br>&nbsp;&nbsp;– BookBazaar – Digital Bookstore System<br>• Followed proper naming conventions & folder structure<br>• Successfully committed & pushed code |
+
+
+### 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 20 – Runtime Analysis Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/runtimeanalysis* |
+| Day 20 – Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase* |
+
+---
+
