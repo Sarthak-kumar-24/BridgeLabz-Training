@@ -1,10 +1,10 @@
 # Java DSA Practice 
 
-## 📅 Week 3: Dsa( Linked List, Stacks and Queue and Hash-Map)
+# 📅 Week 3: Dsa( Linked List, Stacks and Queue and Hash-Map)
 
 ---
 
-### 📘 Day 17 – DSA Practice of linked list and stack-queues
+## 📘 Day 17 – DSA Practice of linked list and stack-queues
 **Date:** 3-Jan-2026  
 
 - Created and set up branch folders.
@@ -34,11 +34,11 @@ dsa-practice/
 
 ---
 
-## 📅 Week 4: Dsa( Sorting )
+# 📅 Week 4: Dsa( Sorting )
 
 ---
 
-### 📘 Day 18 – DSA Practice of sorting
+## 📘 Day 18 – DSA Practice of sorting
 **Date:** 5-Jan-2026  
 
 - Created and set up branch folders.
@@ -57,7 +57,7 @@ dsa-practice/
 
 ---
 
-### 📘 Day 19 – DSA Practice of Searching, Buffer reader, String builders
+## 📘 Day 19 – DSA Practice of Searching, Buffer reader, String builders
 **Date:** 6-Jan-2026  
 
 - Created and set up branch folders.
@@ -75,5 +75,26 @@ dsa-practice/
 👉 [Day 18 – Buffered Reader Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/bufferedreader)
 👉 [Day 18 – Searching Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/linearandbinearsearch)
 👉 [Day 18 – StringBuilder Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/stringbuilderandbuffer)
+
+---
+
+## 📘 Day 20 – DSA Practice of Runtime analysis
+**Date:** 7-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics.
+- Practiced some problems such as :
+  - Search a Target in a Large Dataset
+  - Sorting Large Data Efficiently
+  - String Concatenation Performance
+  - Large File Reading Efficiency
+  - Recursive vs Iterative Fibonacci Computation
+  - Comparing Different Data Structures for Searching
+
+- Successfully pushed files to the remote repository.
+
+
+🔗 **Code Reference:**  
+👉 [Day 19 – Runtime analysis Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/runtimeanalysis)
 
 ---
