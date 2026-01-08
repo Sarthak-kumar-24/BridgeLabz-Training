@@ -232,3 +232,18 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 👉 [Day 20 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
+
+## 📘 Day 21 – Scenrios Programs
+**Date:** 8-Jan-2025  
+
+- Understood Oops basics.
+- Practiced some problems such as :
+  - TourMate – Travel Itinerary Planner
+  - MediStore – Pharmacy Inventory & Sales System
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 21 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
+---
