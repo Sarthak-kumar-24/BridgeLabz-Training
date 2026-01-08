@@ -1,0 +1,10 @@
+# Java compiled output
+*.class
+
+# IDE / build files
+.metadata/
+.settings/
+bin/
+out/
+target/
+*.log
