@@ -315,3 +315,21 @@ Focused on understanding array concepts in Java and applying them to solve basic
 👉 [Day 18 – leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Strings)
 
 ---
+
+### 📘 Day 21 – leet code programs  
+*(Date: 8-jan-2025)*
+
+- leetcode-based problems:
+  - Longest Valid Parenthesis program
+  - Valid Parenthesis program
+  - Search in rotated sorted array 
+
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 21 – leetcode- Stacks](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Stacks)
+👉 [Day 21 – leetcode- Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+    
+
+---
