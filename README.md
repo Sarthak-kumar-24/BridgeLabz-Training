@@ -247,3 +247,19 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 👉 [Day 21 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
+
+## 📘 Day 22 – Scenrios Programs
+**Date:** 9-Jan-2025  
+
+- Understood Oops basics.
+- Practiced some problems such as :
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 22 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
+---
