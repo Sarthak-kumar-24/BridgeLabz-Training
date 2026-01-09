@@ -55,7 +55,7 @@ public abstract class Medicine implements ISellable{
         return name;
     }
 	
-    // common selling logic
+    
     @Override
     public void sell(int qty) {
         if (qty <= quantity && !checkExpiry()) {
