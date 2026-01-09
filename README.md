@@ -593,3 +593,24 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 
 ---
 
+## 📘 Day 22 – Scenarios
+**Date:** 9 Jan 2026  
+
+---
+
+### java-oops-practice branch
+**Overview:**  
+Focused on strengthening Scenarios understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Understood Oops basics.
+- Practiced some problems such as :
+  - Artify – Digital Art Marketplace
+  - FoodLoop – Restaurant Ordering System
+  - SkillForge – Online Learning Portal
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 22 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
