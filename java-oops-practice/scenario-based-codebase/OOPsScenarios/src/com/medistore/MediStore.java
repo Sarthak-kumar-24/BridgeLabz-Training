@@ -3,6 +3,7 @@ package com.medistore;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+import java.util.Scanner;
 
 /* MediStore – Pharmacy Inventory & Sales System
  * 
@@ -18,6 +19,8 @@ import java.util.List;
 public class MediStore {
 
 	List<Medicine> medicines = new ArrayList<>();
+	
+	private Scanner sc = new Scanner(System.in);
 
 	void addMedicine(Medicine medicine) {
 		medicines.add(medicine);
@@ -30,81 +33,120 @@ public class MediStore {
 		System.out.println("Totoal Price: Rs" + total);
 
 	}
+	
+	
+    private void run() {
+        printHeader();
 
-	private static void printHeader() {
-		System.out.println("=================================================");
-		System.out.println("             MediStore Pharmacy ");
-		System.out.println("        Inventory & Sales Management");
-		System.out.println("=================================================\n");
-	}
+        while (true) {
+            printMenu();
+            int choice = sc.nextInt();
 
-	private static void printSection(String title) {
-		System.out.println("\n-------------------------------------------------");
-		System.out.println(" " + title);
-		System.out.println("-------------------------------------------------");
-	}
+            switch (choice) {
+                case 1 -> displayMedicines();
+                case 2 -> sellMedicine();
+                case 3 -> {
+                    footer();
+                    return;
+                }
+                default -> System.out.println(" Invalid choice. Try again.");
+            }
+        }
+    }
 
-	public static void footer() {
-		System.out.println("\n=================================================");
-		System.out.println("Thank you for using MediStore ");
-		System.out.println("Stay healthy. Stay stocked.");
-		System.out.println("=================================================");
-	}
+    // ----------------- DATA -----------------
+    private void seedData() {
+        medicines.add(new Tablet("TabletA", 200, 10, 15, false));
+        medicines.add(new Tablet("TabletB", 600, 10, 5, true));
+        medicines.add(new Syrup("SyrupA", 250, 10, 10, false));
+        medicines.add(new Injection("InjectionA", 500, 10, 3, false));
+    }
 
-	public static void main(String[] args) {
-		
+    // ----------------- FEATURES -----------------
+    private void displayMedicines() {
+        printSection("AVAILABLE MEDICINES");
 
-		MediStore store = new MediStore();
-		printHeader();
+        System.out.printf("%-5s %-15s %-10s %-10s %-10s%n",
+                "ID", "Name", "Price", "Stock", "Expired");
 
-		Medicine[] tablets = { new Tablet("TabletA", 200, 10, 15, false), 
-				               new Tablet("TabletB", 600, 10, 5, true),
-				               new Tablet("TabletC", 500, 10, 5, false), 
-				               new Tablet("TabletD", 300, 10, 11, false)
+        for (int i = 0; i < medicines.size(); i++) {
+            Medicine m = medicines.get(i);
+            System.out.printf("%-5d %-15s %-10d %-10d %-10s%n",
+                    i + 1,
+                    m.getName(),
+                    m.getPrice(),
+                    m.getQuantity(),
+                    m.checkExpiry() ? "YES" : "NO");
+        }
+    }
 
-		};
-		Medicine[] syrups = { new Syrup("SyrupA", 200, 10, 10 , true), 
-				             new Syrup("SyrupB", 250, 10, 5, false),
-				             new Syrup("SyrupC", 300, 10, 50, false), 
-				             new Syrup("SyrupD", 400, 10, 4, false)
+    private void sellMedicine() {
+        displayMedicines();
 
-		};
+        System.out.print("\nEnter Medicine ID to sell: ");
+        int id = sc.nextInt() - 1;
 
-		Medicine[] injections = { new Injection("InjectionA", 300, 10, 15, false), 
-				                  new Injection("InjectionB", 500, 10, 5, false),
-				                  new Injection("InjectionC", 400, 10, 5, false), 
-				                  new Injection("InjectionD", 1200, 10, 1, false)
+        if (id < 0 || id >= medicines.size()) {
+            System.out.println(" Invalid Medicine ID");
+            return;
+        }
 
-		};
+        Medicine selected = medicines.get(id);
 
-		printSection("ADDING MEDICINES TO INVENTORY");
+        System.out.print("Enter quantity: ");
+        int qty = sc.nextInt();
 
-		for (Medicine m : tablets)
-			store.addMedicine(m);
-		for (Medicine m : syrups)
-			store.addMedicine(m);
-		for (Medicine m : injections)
-			store.addMedicine(m);
+        selected.sell(qty);
+        printBill(selected, qty);
+    }
 
-		System.out.println(" Tablets added    : " + tablets.length);
-		System.out.println(" Syrups added     : " + syrups.length);
-		System.out.println(" Injections added : " + injections.length);
+    private void printBill(Medicine m, int qty) {
+        if (qty <= 0 || m.checkExpiry()) return;
 
-		printSection("SALE TRANSACTION");
+        int total = m.getPrice() * qty;
 
-		Medicine selected = tablets[0];
-		selected.sell(3);
-		store.totalPrice(selected, 3);
-		
-		Medicine syrupselected = syrups[0];
-		syrupselected.sell(3);
-		store.totalPrice(syrupselected, 3);
-		
-		Medicine injectionselected = injections[0];
-		injectionselected.sell(3);
-		store.totalPrice(injectionselected, 3);
+        printSection("BILL SUMMARY");
+        System.out.println(" Medicine   : " + m.getName());
+        System.out.println(" Quantity   : " + qty);
+        System.out.println(" Unit Price : Rs " + m.getPrice());
+        System.out.println(" Total Bill : Rs " + total);
+    }
 
-		footer();
+
+    // ----------------- UI -----------------
+    private static void printHeader() {
+        System.out.println("=============================================");
+        System.out.println("          MediStore Pharmacy System");
+        System.out.println("      Inventory & Sales Management");
+        System.out.println("=============================================");
+    }
+
+    private static void printMenu() {
+        System.out.println("\n1. View Medicines");
+        System.out.println("2. Sell Medicine");
+        System.out.println("3. Exit");
+        System.out.print("Enter choice: ");
+    }
+
+    private static void printSection(String title) {
+        System.out.println("\n---------------------------------------------");
+        System.out.println(" " + title);
+        System.out.println("---------------------------------------------");
+    }
+
+    private static void footer() {
+        System.out.println("\n=============================================");
+        System.out.println(" Thank you for using MediStore ");
+        System.out.println(" Stay healthy. Stay stocked.");
+        System.out.println("=============================================");
+    }
+
+    public static void main(String[] args) {
+    	
+        MediStore store = new MediStore();
+        store.seedData();
+        store.run();
+    
 
 	}
 }
