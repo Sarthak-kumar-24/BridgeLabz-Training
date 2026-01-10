@@ -333,3 +333,20 @@ Focused on understanding array concepts in Java and applying them to solve basic
     
 
 ---
+
+### 📘 Day 23 – leet code programs  
+*(Date: 10-jan-2025)*
+
+- leetcode-based problems:
+  - Valid Sudoku program
+  - Search Insert position program
+  - First and last Position of an element program
+
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 23 – leetcode- Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+    
+
+---
