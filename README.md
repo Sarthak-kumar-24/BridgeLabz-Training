@@ -614,3 +614,26 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 🔗 **Code Reference:**  
 👉 [Day 22 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
+---
+
+## 📘 Day 23 – LeetCode & DSA Scenario Practice  
+**Date:** 10 Jan 2026  
+
+---
+
+### 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|------------|-----------|
+| **`core-java-practice`** | LeetCode Problem Solving (Arrays) | • Solved LeetCode-based problems<br>• Implemented:<br>&nbsp;&nbsp;– Valid Sudoku Program<br>&nbsp;&nbsp;– Search Insert Position Program<br>&nbsp;&nbsp;– First and Last Position of an Element Program<br>• Organized programs into appropriate folders<br>• Committed and pushed all changes successfully |
+| **`dsa-practice`** | DSA Scenario-Based Practice | • Created and set up branch folders<br>• Revised DSA fundamentals:<br>&nbsp;&nbsp;– HashMap<br>&nbsp;&nbsp;– Linked List<br>• Implemented real-world scenario problems:<br>&nbsp;&nbsp;– BookShelf – Library Organizer (HashMap + Linked List)<br>&nbsp;&nbsp;– BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)<br>&nbsp;&nbsp;– AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)<br>• Successfully pushed files to the remote repository |
+
+
+### 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 23 – LeetCode (Arrays) | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays* |
+| Day 23 – DSA Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
+
+---
