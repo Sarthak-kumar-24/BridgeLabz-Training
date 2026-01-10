@@ -98,3 +98,21 @@ dsa-practice/
 👉 [Day 19 – Runtime analysis Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/runtimeanalysis)
 
 ---
+
+## 📘 Day 23 – DSA Practice of Scenarios
+**Date:** 10-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of hashmap and linked-list.
+- Practiced some problems such as :
+  - BookShelf – Library Organizer (HashMap + Linked List)
+  - BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)
+  - AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)
+
+- Successfully pushed files to the remote repository.
+
+
+🔗 **Code Reference:**  
+👉 [Day 23 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
