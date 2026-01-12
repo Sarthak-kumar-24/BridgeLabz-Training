@@ -637,3 +637,26 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 23 – DSA Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
 
 ---
+
+## 📘 Day 24 – DSA & OOP Scenario Practice  
+**Date:** 12 Jan 2026  
+
+---
+
+### 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`dsa-practice`** | Data Structures & Algorithms (Scenarios) | • Created and set up branch folders<br>• Revised DSA fundamentals (HashMap, Linked List)<br>• Implemented scenario-based DSA problems:<br>&nbsp;&nbsp;– CallCenter – Customer Queue Manager (Queue + HashMap)<br>&nbsp;&nbsp;– TrainCompanion – Compartment Navigation System (Doubly Linked List)<br>&nbsp;&nbsp;– TextEditor – Undo/Redo Functionality (Stack)<br>&nbsp;&nbsp;– TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)<br>&nbsp;&nbsp;– BookShelf – Library Organizer (HashMap + Linked List)<br>• Successfully committed & pushed changes to remote repository |
+| **`java-oops-practice`** | OOP Concepts & Scenario-Based Programs | • Revised core OOP concepts (Inheritance, Polymorphism, Encapsulation, Interfaces)<br>• Implemented scenario-based OOP mini-projects:<br>&nbsp;&nbsp;– HomeNest – Smart Home Device Manager<br>&nbsp;&nbsp;– BudgetWise – Personal Finance Tracker<br>&nbsp;&nbsp;– GameBox – Mobile Game Distribution Platform<br>• Organized programs into structured folders<br>• Successfully committed & pushed changes to remote repository |
+
+---
+
+### 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 24 – DSA Scenarios | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
+| Day 24 – OOP Scenarios | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
+
+---
