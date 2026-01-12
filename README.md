@@ -116,3 +116,23 @@ dsa-practice/
 👉 [Day 23 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+## 📘 Day 24 – DSA Practice of Scenarios
+**Date:** 12-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of hashmap and linked-list.
+- Practiced some problems such as :
+  - CallCenter – Customer Queue Manager (Queue + HashMap)
+  - TrainCompanion – Compartment Navigation System (Doubly Linked
+  - TextEditor – Undo/Redo Functionality (Stack)
+  - TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)
+  - BookShelf – Library Organizer (HashMap + Linked List)
+
+- Successfully pushed files to the remote repository.
+
+
+🔗 **Code Reference:**  
+👉 [Day 24 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
