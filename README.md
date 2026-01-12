@@ -264,7 +264,7 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 
 ---
 
-## 📘 Day 23 – Scenrios Programs
+## 📘 Day 24 – Scenrios Programs
 **Date:** 12-Jan-2025  
 
 - Understood Oops basics.
@@ -276,6 +276,6 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 - Successfully pushed files to the remote repository.
 
 🔗 **Code Reference:**  
-👉 [Day 23 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+👉 [Day 24 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
