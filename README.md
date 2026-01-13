@@ -289,6 +289,12 @@ Focused on strengthening constructors understanding and writing Java programs to
 👉 [Leetcode](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
 
 ---
+---
+
+# 📅 Week 3: Scenario-Based Problems & LeetCode Practice
+
+---
+---
 
 ## 📘 Day 12 – Leetcode & Scenario questions  
 *(Date: 29-Dec-2025)*
@@ -636,6 +642,12 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 23 – LeetCode (Arrays) | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays* |
 | Day 23 – DSA Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
 
+---
+---
+
+# 📅 Week 5: Scenario-Based Problems on OOPs & Data Structures Practice
+
+---
 ---
 
 ## 📘 Day 24 – DSA & OOP Scenario Practice  
