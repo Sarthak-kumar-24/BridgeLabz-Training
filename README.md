@@ -662,7 +662,6 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`dsa-practice`** | Data Structures & Algorithms (Scenarios) | • Created and set up branch folders<br>• Revised DSA fundamentals (HashMap, Linked List)<br>• Implemented scenario-based DSA problems:<br>&nbsp;&nbsp;– CallCenter – Customer Queue Manager (Queue + HashMap)<br>&nbsp;&nbsp;– TrainCompanion – Compartment Navigation System (Doubly Linked List)<br>&nbsp;&nbsp;– TextEditor – Undo/Redo Functionality (Stack)<br>&nbsp;&nbsp;– TrafficManager – Roundabout Vehicle Flow (Circular Linked List + Queue)<br>&nbsp;&nbsp;– BookShelf – Library Organizer (HashMap + Linked List)<br>• Successfully committed & pushed changes to remote repository |
 | **`java-oops-practice`** | OOP Concepts & Scenario-Based Programs | • Revised core OOP concepts (Inheritance, Polymorphism, Encapsulation, Interfaces)<br>• Implemented scenario-based OOP mini-projects:<br>&nbsp;&nbsp;– HomeNest – Smart Home Device Manager<br>&nbsp;&nbsp;– BudgetWise – Personal Finance Tracker<br>&nbsp;&nbsp;– GameBox – Mobile Game Distribution Platform<br>• Organized programs into structured folders<br>• Successfully committed & pushed changes to remote repository |
 
----
 
 ### 🔗 Code Reference
 
@@ -670,5 +669,29 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|------|
 | Day 24 – DSA Scenarios | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
 | Day 24 – OOP Scenarios | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
+
+---
+
+## 📘 Day 25 – LeetCode, DSA & OOPs basedScenario Practice  
+**Date:** 13 Jan 2026  
+
+---
+
+### 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`leetcode-practice`** | Arrays & Backtracking (LeetCode) | • Solved LeetCode-based problems<br>• Implemented optimized solutions using recursion and array manipulation<br>• Problems covered:<br>&nbsp;&nbsp;– Combination Sum (Backtracking)<br>&nbsp;&nbsp;– Combination Sum II (Backtracking + Duplicate Handling)<br>&nbsp;&nbsp;– First Missing Positive Number (Array Index Mapping)<br>• Organized programs into appropriate folders<br>• Successfully committed and pushed all changes |
+| **`dsa-scenarios-practice`** | Data Structures & Algorithms (Scenarios) | • Created and set up branch folders<br>• Revised DSA fundamentals (HashMap, Stack, Queue, Linked List)<br>• Implemented real-world scenario-based problems:<br>&nbsp;&nbsp;– ExamProctor – Online Exam Review System (Stack + HashMap)<br>&nbsp;&nbsp;– ParcelTracker – Delivery Chain Management (Singly Linked List)<br>&nbsp;&nbsp;– SmartCheckout – Supermarket Billing Queue (Queue + HashMap)<br>• Successfully pushed files to the remote repository |
+| **`java-oops-practice`** | OOP Concepts & Scenario Programs | • Revised OOP basics (Classes, Objects, Encapsulation)<br>• Implemented scenario-based OOP programs:<br>&nbsp;&nbsp;– PayXpress – Utility Bill Payment System<br>&nbsp;&nbsp;– Bird Sanctuary Management System<br>• Maintained clean folder structure<br>• Successfully committed and pushed changes |
+
+
+### 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 25 – LeetCode Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays* |
+| Day 25 – DSA Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
+| Day 25 – OOP Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
 
 ---
