@@ -331,7 +331,6 @@ Focused on understanding array concepts in Java and applying them to solve basic
 👉 [Day 21 – leetcode- Stacks](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/Stacks)
 👉 [Day 21 – leetcode- Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
     
-
 ---
 
 ### 📘 Day 23 – leet code programs  
@@ -348,5 +347,20 @@ Focused on understanding array concepts in Java and applying them to solve basic
 🔗 *Code Link:*  
 👉 [Day 23 – leetcode- Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
     
+---
 
+### 📘 Day 25 – leet code programs  
+*(Date: 13-jan-2025)*
+
+- leetcode-based problems:
+  - Combination Sum
+  - Combination Sum II
+  - First Positive Number 
+
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+
+🔗 *Code Link:*  
+👉 [Day 25 – leetcode- Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
+    
 ---
