@@ -136,3 +136,21 @@ dsa-practice/
 👉 [Day 24 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+## 📘 Day 25 – DSA Practice of Scenarios
+**Date:** 13-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of hashmap and linked-list.
+- Practiced some problems such as :
+  - ExamProctor – Online Exam Review System (Stack + HashMap +Functions)
+  - ParcelTracker – Delivery Chain Management (Singly Linked List)
+  - SmartCheckout – Supermarket Billing Queue (Queue + HashMap)
+
+- Successfully pushed files to the remote repository.
+
+
+🔗 **Code Reference:**  
+👉 [Day 25 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
