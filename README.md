@@ -279,3 +279,18 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 👉 [Day 24 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
+
+## 📘 Day 25 – Scenrios Programs
+**Date:** 13-Jan-2025  
+
+- Understood Oops basics.
+- Practiced some problems such as :
+  - PayXpress – Utility Bill Payment System
+  - Bird Sanctuary
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 25 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
+---
