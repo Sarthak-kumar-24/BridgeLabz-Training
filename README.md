@@ -97,7 +97,7 @@ Focused on strengthening objects modelling understanding and writing Java progra
 
 ---
 
-##📘 Day 14 –   Java Object Modeling 
+## 📘 Day 14 –   Java Object Modeling 
 **Date:** 31-Dec-2025  
 
 **Overview:**  
