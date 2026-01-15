@@ -695,3 +695,26 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 25 – OOP Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
 
 ---
+
+## 📘 Day 26 – DSA( Sorting, Trees ) & generics Practice  
+**Date:** 15 Jan 2026  
+
+---
+
+### 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java-collection-practice`** | Java Generics | • Created and set up branch folders<br>• Revised and understood Generics fundamentals (type safety, reusability)<br>• Practiced scenario-based generics programs:<br>&nbsp;&nbsp;– Smart Warehouse Management System<br>&nbsp;&nbsp;– Dynamic Online Marketplace<br>&nbsp;&nbsp;– Multi-Level University Course Management System<br>&nbsp;&nbsp;– Personalized Meal Plan Generator<br>&nbsp;&nbsp;– AI-Driven Resume Screening System<br>• Implemented Generic Classes, Bounded Type Parameters, Generic Methods, and Wildcards<br>• Successfully committed and pushed files to the remote repository |
+| **`dsa-practice`** | DSA – Sorting & Binary Tree (Scenario-Based) | • Created and set up branch folders<br>• Revised DSA fundamentals (HashMap, Linked List)<br>• Implemented real-world scenario-based sorting problems:<br>&nbsp;&nbsp;– EventManager – Ticket Price Optimizer (Quick Sort)<br>&nbsp;&nbsp;– ExamCell – Student Rank Generator (Merge Sort)<br>&nbsp;&nbsp;– HospitalQueue – Patient Sorting by Criticality (Bubble Sort)<br>&nbsp;&nbsp;– SmartShelf – Real-Time Book Arrangement (Insertion Sort)<br>&nbsp;&nbsp;– ZipZipMart – Daily Sales Summary Report (Merge Sort)<br>• Practiced Binary Tree concepts and problems<br>• Successfully committed and pushed files to the remote repository |
+
+
+### 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 26 – Generics Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/generics* |
+| Day 26 – DSA Sorting Scenarios | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
+| Day 26 – Binary Tree  | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/trees* |
+
+---
