@@ -141,6 +141,7 @@ Focused on understanding array concepts in Java and applying them to solve basic
 ## 📅 Week 2: Scenario-Based Problems & LeetCode Practice
 
 ---
+
 ### 📘 Day 7 – Java Strings  
 *(Date: 22-Dec-2025)*
 
@@ -347,6 +348,10 @@ Focused on understanding array concepts in Java and applying them to solve basic
 🔗 *Code Link:*  
 👉 [Day 23 – leetcode- Arrays](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/arrays)
     
+---
+
+## 📅 Week 5: LeetCode Practice
+
 ---
 
 ### 📘 Day 25 – leet code programs  
