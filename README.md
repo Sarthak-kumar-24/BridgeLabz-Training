@@ -117,6 +117,10 @@ dsa-practice/
 
 ---
 
+# 📅 Week 5: Dsa( Sorting + Tree )
+
+---
+
 ## 📘 Day 24 – DSA Practice of Scenarios
 **Date:** 12-Jan-2026  
 
@@ -152,5 +156,25 @@ dsa-practice/
 
 🔗 **Code Reference:**  
 👉 [Day 25 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
+
+## 📘 Day 26 – DSA Practice of Scenarios on Sorting
+**Date:** 15-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of hashmap and linked-list.
+- Practiced some problems such as :
+  - EventManager – Ticket Price Optimizer (Quick Sort)
+  - ExamCell – Student Rank Generator (Merge Sort)
+  - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+  - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+  - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+
+- Successfully pushed files to the remote repository.
+
+
+🔗 **Code Reference:**  
+👉 [Day 26 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
