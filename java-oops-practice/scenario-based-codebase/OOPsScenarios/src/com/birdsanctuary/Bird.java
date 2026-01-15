@@ -13,6 +13,7 @@ public abstract class Bird {
 	
 	   protected int id;
 	    protected String name;
+	    
 	    protected String species;
 
 	    public Bird(int id, String name, String species) {
