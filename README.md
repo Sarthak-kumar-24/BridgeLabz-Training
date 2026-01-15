@@ -117,7 +117,7 @@ dsa-practice/
 
 ---
 
-# 📅 Week 5: Dsa( Sorting + Tree )
+# 📅 Week 5: Dsa( Scenarios + Graph + Trees )
 
 ---
 
@@ -159,7 +159,7 @@ dsa-practice/
 
 ---
 
-## 📘 Day 26 – DSA Practice of Scenarios on Sorting
+## 📘 Day 26 – DSA Practice of Scenarios on Sorting + Binary Tree
 **Date:** 15-Jan-2026  
 
 - Created and set up branch folders.
@@ -170,6 +170,7 @@ dsa-practice/
   - HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
   - SmartShelf – Real-Time Book Arrangement (Insertion Sort)
   - ZipZipMart – Daily Sales Summary Report (Merge Sort)
+- Also Practised Binary Tree Concept and problems
 
 - Successfully pushed files to the remote repository.
 
