@@ -179,3 +179,21 @@ dsa-practice/
 👉 [Day 26 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+## 📘 Day 27 – DSA Practice of Scenarios on Sorting 
+**Date:** 16-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of Sortings.
+- Practiced some problems such as :
+  - RoboWarehouse – Shelf Loading Robot (Insertion Sort)
+  - CinemaHouse – Movie Time Sorting (Bubble Sort)
+  -  CropMonitor – Sensor Data Ordering (Quick Sort)
+
+- Successfully pushed files to the remote repository.
+
+
+🔗 **Code Reference:**  
+👉 [Day 27 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
