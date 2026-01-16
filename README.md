@@ -718,3 +718,28 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 26 – Binary Tree  | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/trees* |
 
 ---
+## 📘 Day 27 – DSA (Sorting) & Java Collections Practice  
+**Date:** 16 Jan 2026  
+
+---
+
+### 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`dsa-practice`** | DSA – Sorting (Scenario-Based) | • Created and set up branch folders<br>• Revised DSA sorting fundamentals<br>• Implemented scenario-based sorting problems:<br>&nbsp;&nbsp;– **RoboWarehouse** – Shelf Loading Robot (Insertion Sort)<br>&nbsp;&nbsp;– **CinemaHouse** – Movie Time Sorting (Bubble Sort)<br>&nbsp;&nbsp;– **CropMonitor** – Sensor Data Ordering (Quick Sort)<br>• Understood real-world mapping of sorting algorithms<br>• Successfully committed and pushed files to the remote repository |
+| **`java-collection-practice`** | Java Collections Framework | • Created and set up branch folders<br>• Revised Generics basics<br>• Practiced problems using **List Interface**:<br>&nbsp;&nbsp;– Reverse a List<br>&nbsp;&nbsp;– Find Frequency of Elements<br>&nbsp;&nbsp;– Rotate Elements in a List<br>&nbsp;&nbsp;– Remove Duplicates While Preserving Order<br>&nbsp;&nbsp;– Find the Nth Element from the End<br>• Practiced problems using **Set Interface**:<br>&nbsp;&nbsp;– Check if Two Sets Are Equal<br>&nbsp;&nbsp;– Union and Intersection of Two Sets<br>&nbsp;&nbsp;– Symmetric Difference<br>• Practiced problems using **Queue Interface**:<br>&nbsp;&nbsp;– Reverse a Queue<br>&nbsp;&nbsp;– Generate Binary Numbers Using a Queue<br>&nbsp;&nbsp;– Implement a Stack Using Queues<br>• Practiced problems using **Map Interface**:<br>&nbsp;&nbsp;– Word Frequency Counter<br>&nbsp;&nbsp;– Invert a Map<br>&nbsp;&nbsp;– Find the Key with the Highest Value<br>• Successfully committed and pushed files to the remote repository |
+
+
+### 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 27 – DSA Sorting Scenarios | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
+| Day 27 – List Interface Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/listinterface* |
+| Day 27 – Set Interface Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/setinterface* |
+| Day 27 – Queue Interface Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/queueinterface* |
+| Day 27 – Map Interface Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/mapinterface* |
+
+---
+
