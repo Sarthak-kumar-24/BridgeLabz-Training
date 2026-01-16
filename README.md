@@ -37,22 +37,25 @@ collection-practice/
 
 - Created and set up branch folders.
 - Understood generics basics.
-- Practiced some problems such as :
--List Interface
+- Practiced some problems such as 
+- List Interface: 
   - Reverse a List
   - Find Frequency of Elements
   - Rotate Elements in a List
   - Remove Duplicates While Preserving Order
   - Find the Nth Element from the End
--Set Interface
+    
+- Set Interface:
   - Check if Two Sets Are Equal
   - Union and Intersection of Two Sets
   - Symmetric Difference
--Queue Interface
+    
+- Queue Interface:
   - Reverse a Queue
   - Generate Binary Numbers Using a Queue
   - Implement a Stack Using Queues
--Map Interface
+    
+- Map Interface:
   - Word Frequency Counter
   - Invert a Map
   - Find the Key with the Highest Value
