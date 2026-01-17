@@ -743,3 +743,25 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 
 ---
 
+## 📘 Day 28 – DSA Practice of Scenario-Based Sorting  
+**Date:** 17 Jan 2026  
+
+---
+
+### 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`dsa-practice`** | DSA – Sorting (Scenario-Based) | • Created and set up branch folders<br>• Revised fundamentals of DSA sorting algorithms<br>• Implemented real-world scenario-based sorting programs:<br>&nbsp;&nbsp;– **IceCreamRush** – Sorting Ice Cream Flavors by Popularity (Bubble Sort)<br>&nbsp;&nbsp;– **SmartLibrary** – Auto-Sort Borrowed Books (Insertion Sort)<br>&nbsp;&nbsp;– **ArtExpo** – Sort Artists by Registration Time (Insertion Sort)<br>&nbsp;&nbsp;– **FleetManager** – Vehicle Maintenance Scheduler (Merge Sort)<br>• Understood practical use-cases of different sorting techniques<br>• Successfully committed and pushed files to the remote repository |
+| **`java-oops-practice`** | OOPs – Scenario-Based Programs | • Revised and understood core OOP concepts<br>• Implemented scenario-based OOP programs:<br>&nbsp;&nbsp;– **GeoMeasure Solutions**<br>&nbsp;&nbsp;– **Bag-n-Ball Organizer**<br>• Applied object-oriented design principles in problem solving<br>• Successfully committed and pushed files to the remote repository |
+
+
+### 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 28 – Sorting Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
+| Day 28 – OOP Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
+
+---
+
