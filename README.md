@@ -197,3 +197,21 @@ dsa-practice/
 👉 [Day 27 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+## 📘 Day 28 – DSA Practice of Scenarios on Sorting 
+**Date:** 17-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of Sortings.
+- Practiced some problems such as :
+  -  IceCreamRush – Sorting Flavors by Popularity (Bubble Sort)
+  -  SmartLibrary – Auto-Sort Borrowed Books (Insertion Sort)
+  -  ArtExpo – Sort Artists by Registration Time (Insertion Sort)
+  -  FleetManager – Vehicle Maintenance Scheduler (Merge Sort)
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 28 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
