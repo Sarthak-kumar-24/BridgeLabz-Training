@@ -718,6 +718,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 26 – Binary Tree  | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/DSAPractice/src/com/trees* |
 
 ---
+
 ## 📘 Day 27 – DSA (Sorting) & Java Collections Practice  
 **Date:** 16 Jan 2026  
 
@@ -764,4 +765,32 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 28 – OOP Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
 
 ---
+---
 
+# 📅 Week 6: Scenario-Based Problems on OOPs & Data Structures Practice along with Graph, Tree and Collection
+
+---
+---
+
+## 📘 Day 29 – DSA & OOP Scenario Practice  
+**Date:** 19 Jan 2026  
+
+---
+
+### 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`dsa-practice`** | DSA – Sorting (Scenario-Based) | • Created and set up branch folders<br>• Revised core DSA sorting fundamentals<br>• Implemented scenario-based sorting programs:<br>&nbsp;&nbsp;– **EduResults** – Rank Sheet Generator (Merge Sort)<br>&nbsp;&nbsp;– **FlashDealz** – Product Sorting by Discount (Quick Sort)<br>&nbsp;&nbsp;– **FitnessTracker** – Daily Step Count Ranking (Bubble Sort)<br>• Mapped real-world problems to appropriate sorting algorithms<br>• Successfully committed and pushed files to the remote repository |
+| **`java-oops-practice`** | Java OOPs – Scenario-Based Programs | • Revised and understood core OOP concepts (Classes, Objects, Encapsulation, Constructors)<br>• Implemented scenario-based OOP program:<br>&nbsp;&nbsp;– **Address Book System**<br>• Applied object-oriented design principles in problem-solving<br>• Successfully committed and pushed files to the remote repository |
+
+---
+
+### 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 29 – DSA Sorting Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
+| Day 29 – Java OOPs Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
+
+---
