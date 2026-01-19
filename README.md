@@ -313,3 +313,21 @@ Focused on strengthening OOPs understanding and writing Java programs to get com
 👉 [Day 28 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
 
 ---
+
+# 📅 Week 6: Java Oops Programming Scenarios
+
+---
+
+## 📘 Day 29 – Scenrios Programs
+**Date:** 19-Jan-2025  
+
+- Understood Oops basics.
+- Practiced some problems such as :
+  - Address Book System
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 29 – Scnarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com)
+
+---
