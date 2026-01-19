@@ -215,3 +215,24 @@ dsa-practice/
 👉 [Day 28 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+# 📅 Week 6: DSA( Sorting )
+
+---
+
+## 📘 Day 29 – DSA Practice of Scenarios on Sorting 
+**Date:** 19-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of Sortings.
+- Practiced some problems such as :
+  -  EduResults – Rank Sheet Generator (Merge Sort)
+  -  FlashDealz – Product Sorting by Discount (Quick Sort)
+  -  FitnessTracker – Daily Step Count Ranking (Bubble Sort)
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 29 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
