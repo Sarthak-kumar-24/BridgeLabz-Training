@@ -236,3 +236,20 @@ dsa-practice/
 👉 [Day 29 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+## 📘 Day 30 – DSA Practice of Scenarios on Sorting 
+**Date:** 20-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of Sortings.
+- Practiced some problems such as :
+  -  MovieTime – Theater Show Listings (Insertion Sort)
+  -  FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  -  GamerZone – High Score Ranking System (Quick Sort)
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 30 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
