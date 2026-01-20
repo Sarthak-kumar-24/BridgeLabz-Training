@@ -1,4 +1,4 @@
-package com.graph;
+package com.graph.networkpacketrouting;
 
 import java.util.ArrayList;
 import java.util.Collections;
