@@ -794,3 +794,24 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 29 – Java OOPs Scenario Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/OOPsScenarios/src/com* |
 
 ---
+
+## 📘 Day 30 – DSA Sorting Scnarios  
+*(Date: 20-jan-2026)*
+
+### dsa-practice branch
+**Overview:**  
+Focused on strengthening Scenarios understanding and writing Java programs to get comfortable with syntax and structure.
+
+**Key Learnings:**
+- Practiced problems like
+  -  MovieTime – Theater Show Listings (Insertion Sort)
+  -  FoodFest – Sorting Stalls by Customer Footfall (Merge Sort)
+  -  GamerZone – High Score Ranking System (Quick Sort)
+
+- Practiced many problems in each of them
+- Practiced sortings
+
+🔗 **Code Reference:**  
+👉 [Day 30 – Scenarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
