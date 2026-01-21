@@ -68,5 +68,31 @@ collection-practice/
 [Day 27 – Queue interface Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/queueinterface)
 [Day 27 – Set interface Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/setinterface)
 
+---
+---
+
+# 📅 Week 6: Collection( Streams )
+
+---
+---
+
+## 📘 Day 31 – Streams
+**Date:** 21-Jan-2026  
+
+- Understood Streams basics.
+- Practiced some problems such as 
+- Streams problems solved: 
+  - File Handling - Read and Write a Text File
+  - Buffered Streams - Efficient File Copy
+  - Read User Input from Console
+  - Serialization - Save and Retrieve an Object
+  - ByteArray Stream - Convert Image to ByteArray
+  - Filter Streams - Convert Uppercase to Lowercase
+   and many more
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 31 – Streams Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/streams)
 
 ---
