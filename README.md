@@ -784,8 +784,6 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`dsa-practice`** | DSA – Sorting (Scenario-Based) | • Created and set up branch folders<br>• Revised core DSA sorting fundamentals<br>• Implemented scenario-based sorting programs:<br>&nbsp;&nbsp;– **EduResults** – Rank Sheet Generator (Merge Sort)<br>&nbsp;&nbsp;– **FlashDealz** – Product Sorting by Discount (Quick Sort)<br>&nbsp;&nbsp;– **FitnessTracker** – Daily Step Count Ranking (Bubble Sort)<br>• Mapped real-world problems to appropriate sorting algorithms<br>• Successfully committed and pushed files to the remote repository |
 | **`java-oops-practice`** | Java OOPs – Scenario-Based Programs | • Revised and understood core OOP concepts (Classes, Objects, Encapsulation, Constructors)<br>• Implemented scenario-based OOP program:<br>&nbsp;&nbsp;– **Address Book System**<br>• Applied object-oriented design principles in problem-solving<br>• Successfully committed and pushed files to the remote repository |
 
----
-
 ### 🔗 Code Reference
 
 | Description | Link |
@@ -813,5 +811,26 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 
 🔗 **Code Reference:**  
 👉 [Day 30 – Scenarios](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
+
+## 📘 Day 31 – Streams & DSA Scenario Practice
+📅 **Date:** 21-Jan-2026  
+
+---
+
+## 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java-collection-practice`** | Java Streams & I/O | • Revised and understood Java **Streams fundamentals**<br>• Practiced hands-on problems related to Java I/O and stream processing<br>• Implemented stream-based programs including:<br>&nbsp;&nbsp;– **File Handling** – Read and Write Text Files<br>&nbsp;&nbsp;– **Buffered Streams** – Efficient File Copy<br>&nbsp;&nbsp;– **Console Input** – Reading User Input<br>&nbsp;&nbsp;– **Serialization** – Save and Retrieve Objects<br>&nbsp;&nbsp;– **ByteArrayStream** – Convert Image to Byte Array<br>&nbsp;&nbsp;– **Filter Streams** – Text Transformation (Uppercase ↔ Lowercase)<br>• Successfully committed and pushed all stream programs to the remote repository |
+| **`dsa-practice`** | DSA – Sorting & Tree (Scenario-Based) | • Created and organized branch folders for scenario-based practice<br>• Revised core **DSA fundamentals of Sorting and Trees**<br>• Implemented real-world scenario programs such as:<br>&nbsp;&nbsp;– **University Digital Record System**<br>&nbsp;&nbsp;– **E-Commerce Product Inventory**<br>&nbsp;&nbsp;– **Music App** – Organize Songs by Track ID (Tree-based)<br>&nbsp;&nbsp;– **TailorShop** – Sorting Orders by Delivery Deadline (Insertion Sort)<br>&nbsp;&nbsp;– **MedWarehouse** – Sorting Medicines by Expiry Date (Merge Sort)<br>• Successfully committed and pushed all scenario programs to the remote repository |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 31 – Java Streams Programs | 👉*https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/streams* |
+| Day 31 – DSA Sorting & Tree Scenarios | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
 
 ---
