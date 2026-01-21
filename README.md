@@ -253,3 +253,22 @@ dsa-practice/
 👉 [Day 30 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+## 📘 Day 31 – DSA Practice of Scenarios on Sorting and Tree
+**Date:** 21-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of Sortings.
+- Practiced some problems such as :
+  -  University's Digital Record System
+  -  E-Commerce Product Inventory
+  -  Music App - Organize Songs by Track ID
+  -  TailorShop – Sorting Orders by Delivery Deadline (Insertion Sort)
+  -  MedWarehouse – Sorting Medicines by Expiry (Merge Sort)
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 31 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
