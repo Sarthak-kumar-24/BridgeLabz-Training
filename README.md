@@ -834,3 +834,20 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 31 – DSA Sorting & Tree Scenarios | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com* |
 
 ---
+
+## 📘 Day 32 – Scenario-based questions  
+*(Date: 22-jan-2026)*
+
+### dsa-practice branch
+**Overview:** 
+- Scenario-based problems on AVL tree
+  - Gaming App - Real-Time Leaderboard
+  - Online Ticket Booking by Time
+  - Hospital Queue Management
+- Organized programs into appropriate folders.
+- Committed and pushed all changes successfully.
+  
+🔗 Code Link:  
+👉 [Day 32 – Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
