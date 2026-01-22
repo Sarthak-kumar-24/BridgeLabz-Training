@@ -272,3 +272,20 @@ dsa-practice/
 👉 [Day 31 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+## 📘 Day 32 – DSA Practice of Scenarios on AVL Tree
+**Date:** 22-Jan-2026  
+
+- Created and set up branch folders.
+- Understood DSA basics of AVL tree.
+- Practiced some problems such as :
+  -  Gaming App - Real-Time Leaderboard
+  -  Online Ticket Booking by Time
+  -  Hospital Queue Management
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 32 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
+
+---
