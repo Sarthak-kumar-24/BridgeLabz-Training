@@ -96,3 +96,36 @@ collection-practice/
 👉 [Day 31 – Streams Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/streams)
 
 ---
+
+## 📘 Day 33 – Exceptions, REGEX and Scenarios 
+**Date:** 23-Jan-2026  
+
+- Understood Exceptions basics.
+- Scenarios problems solved: 
+  - ResumeAnalyzer – Smart Resume Filtering System
+  - TravelLog – Trip Organizer for Backpackers
+  - FeedbackGuru – Smart Survey Analyzer
+  - CodeRepoCleaner – Java File Scanner and Organizer
+  - ExamScanner – Digital Answer Sheet Validator
+- In exceptions
+  - Checked Exception (Compile-time Exception)
+  - Unchecked Exception (Runtime Exception)
+  - Custom Exception (User-defined Exception)
+  - Multiple Catch Blocks
+  - try-with-resources (Auto-closing Resources)
+  - throw vs. throws (Exception Propagation)
+- In Regex
+  - Validate a Username
+  - Validate a License Plate Number
+  - Validate a Hex Color Code
+  - Extract All Email Addresses from a Text
+  - Extract Links from a Web Page
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 33 – Exceptions Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/exceptions)
+[Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/scenario-based-codebase/CollectionScenarios/src/com)
+[Regex Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/regex)
+
+---
