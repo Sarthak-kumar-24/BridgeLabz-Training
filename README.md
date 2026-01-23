@@ -862,7 +862,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 
 | Description | Link |
 |------------|------|
-| Day 33 – Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/regex* |
+| Day 33 – Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/scenario-based-codebase/CollectionScenarios/src/com* |
 | Day 33 – Regex  Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/regex* |
 | Day 33 – Exceptions Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/exceptions* |
 
