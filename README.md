@@ -851,3 +851,20 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 👉 [Day 32 – Scenario-based](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarios/src/com)
 
 ---
+
+## 🌿 Branch-wise Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java-collection-practice`** | Java Exceptions, REGEX & Scenario-Based Systems | • Revised and understood **Java Exception Handling fundamentals**<br>• Covered different types of exceptions in detail:<br>&nbsp;&nbsp;– **Checked Exceptions** (Compile-time)<br>&nbsp;&nbsp;– **Unchecked Exceptions** (Runtime)<br>&nbsp;&nbsp;– **Custom/User-defined Exceptions**<br>&nbsp;&nbsp;– **Multiple Catch Blocks**<br>&nbsp;&nbsp;– **try-with-resources** (Auto resource management)<br>&nbsp;&nbsp;– **throw vs throws** (Exception propagation)<br><br>• Solved **real-world scenario-based problems** integrating Exceptions, Regex, I/O, Collections, and Generics:<br>&nbsp;&nbsp;– **ResumeAnalyzer** – Smart Resume Filtering System<br>&nbsp;&nbsp;– **TravelLog** – Trip Organizer for Backpackers<br>&nbsp;&nbsp;– **FeedbackGuru** – Smart Survey Analyzer<br>&nbsp;&nbsp;– **CodeRepoCleaner** – Java File Scanner & Organizer<br>&nbsp;&nbsp;– **ExamScanner** – Digital Answer Sheet Validator<br><br>• Practiced **Regex-based validations and extraction** tasks:<br>&nbsp;&nbsp;– Username validation<br>&nbsp;&nbsp;– License Plate Number validation<br>&nbsp;&nbsp;– Hex Color Code validation<br>&nbsp;&nbsp;– Extracting all Email Addresses from text<br>&nbsp;&nbsp;– Extracting Links from a Web Page<br><br>• Successfully **committed and pushed all exception, regex, and scenario-based programs** to the remote repository |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 33 – Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/regex* |
+| Day 33 – Regex  Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/regex* |
+| Day 33 – Exceptions Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/exceptions* |
+
+---
+
