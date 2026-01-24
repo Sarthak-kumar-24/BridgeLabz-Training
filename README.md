@@ -129,3 +129,30 @@ collection-practice/
 [Regex Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/regex)
 
 ---
+
+## 📘 Day 34 – Junit and Scenarios 
+**Date:** 24-Jan-2026  
+
+- Understood Exceptions basics.
+- Scenarios problems solved: 
+  - DealTracker – E-Commerce Discount Validator
+  - ExamResultUploader – Bulk Marks Processing
+  - SongVault – Personal Music Library Manager
+  - ChatLogParser – Messaging Pattern Analyzer
+  - ChatLogParser – Messaging Pattern Analyzer
+- In JUnit
+  - Testing File Handling Methods
+  - Testing Banking Transactions
+  - Testing Password Strength Validator
+  - Testing Temperature Converter
+  - Testing Date Formatter
+  - Testing User Registration
+
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉[Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/scenario-based-codebase/CollectionScenarios/src/com)
+[Junit Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/junit)
+
+---
