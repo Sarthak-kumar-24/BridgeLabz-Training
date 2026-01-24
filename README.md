@@ -852,6 +852,11 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 
 ---
 
+## 📘 Day 33 – Streams & DSA Scenario Practice
+📅 **Date:** 23-Jan-2026  
+
+---
+
 ## 🌿 Branch-wise Work Summary
 
 | Branch Name | Focus Area | Work Done |
@@ -865,6 +870,27 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 33 – Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/scenario-based-codebase/CollectionScenarios/src/com* |
 | Day 33 – Regex  Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/regex* |
 | Day 33 – Exceptions Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/exceptions* |
+
+---
+
+## 📘 Day 34 – Streams & DSA Scenario Practice
+📅 **Date:** 24-Jan-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java-collection-practice`** | JUnit Testing, Exception Handling & Scenario-Based Applications | • Revised and strengthened **Java Exception Handling basics**<br><br>• Solved **real-world scenario-based problems** with proper validations and edge cases:<br>&nbsp;&nbsp;– **DealTracker** – E-Commerce Discount Validator<br>&nbsp;&nbsp;– **ExamResultUploader** – Bulk Marks Processing System<br>&nbsp;&nbsp;– **SongVault** – Personal Music Library Manager<br>&nbsp;&nbsp;– **ChatLogParser** – Messaging Pattern Analyzer<br><br>• Practiced **JUnit testing concepts** using practical test cases:<br>&nbsp;&nbsp;– Testing **File Handling Methods**<br>&nbsp;&nbsp;– Testing **Banking Transactions** (Credit, Debit, Balance Checks)<br>&nbsp;&nbsp;– Testing **Password Strength Validator**<br>&nbsp;&nbsp;– Testing **Temperature Converter**<br>&nbsp;&nbsp;– Testing **Date Formatter**<br>&nbsp;&nbsp;– Testing **User Registration Workflow**<br><br>• Focused on **JUnit best practices**:<br>&nbsp;&nbsp;– Proper use of assertions<br>&nbsp;&nbsp;– Boundary and edge case testing<br>&nbsp;&nbsp;– Clean and isolated test methods<br><br>• Successfully **committed and pushed all JUnit and scenario-based programs** to the remote repository |
+
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 34 – Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/scenario-based-codebase/CollectionScenarios/src/com* |
+| Day 34 – JUnit Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/junit* |
 
 ---
 
