@@ -1,4 +1,4 @@
-package com.junit.testingstringutilitymethods;
+package com.junit.main;
 
 /*
  * StringUtils
