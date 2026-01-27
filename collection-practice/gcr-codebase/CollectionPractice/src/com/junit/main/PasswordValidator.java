@@ -1,4 +1,4 @@
-package com.junit.testingpasswordstrengthvalidator;
+package com.junit.main;
 
 /*
  * PasswordValidator
