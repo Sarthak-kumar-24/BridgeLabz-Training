@@ -1,4 +1,4 @@
-package com.junit.testingtemperatureconverter;
+package com.junit.main;
 
 /*
  * TemperatureConverter
