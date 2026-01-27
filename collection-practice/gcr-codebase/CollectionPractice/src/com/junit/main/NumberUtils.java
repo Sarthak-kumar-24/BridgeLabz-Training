@@ -1,4 +1,4 @@
-package com.junit.testingparameterizedtests;
+package com.junit.main;
 
 /*
  * NumberUtils
