@@ -1,4 +1,4 @@
-package com.junit.testingacalculatorclass;
+package com.junit.main;
 
 /*
  * Calculator
