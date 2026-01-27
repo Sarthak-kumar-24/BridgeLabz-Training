@@ -1,4 +1,4 @@
-package com.junit.testingbankingtransactions;
+package com.junit.main;
 
 /*
  * BankAccount
