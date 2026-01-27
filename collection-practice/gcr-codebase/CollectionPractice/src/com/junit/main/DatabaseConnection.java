@@ -1,4 +1,4 @@
-package com.junit.testingBeforeEachandAfterEachannotations;
+package com.junit.main;
 
 /*
  * DatabaseConnection
