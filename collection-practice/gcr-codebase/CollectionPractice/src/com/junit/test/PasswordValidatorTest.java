@@ -1,7 +1,9 @@
-package com.junit.testingpasswordstrengthvalidator;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import com.junit.main.PasswordValidator;
 
 /*
  * PasswordValidatorTest
