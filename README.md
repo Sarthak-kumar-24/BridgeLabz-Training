@@ -893,4 +893,32 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 34 – JUnit Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/junit* |
 
 ---
+---
+
+# 📅 Week 7: Scenario-Based Problems on Collections & IoStreams, Filehandling 
+
+---
+---
+
+## 📘 Day 35 – Filehandling, Reflections and annotations
+📅 **Date:** 27-Jan-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java-iostream-practice`** | CSV & JSON File Handling in Java | • Understood **Java file handling fundamentals**<br><br>• Created and worked with a **Maven-based project structure**<br><br>• Solved **JSON-related problems**:<br>&nbsp;&nbsp;– Convert a Java object (**Car**) into JSON format<br>&nbsp;&nbsp;– Convert a list of Java objects into a JSON array<br>&nbsp;&nbsp;– Read a JSON file and print all keys and values<br>&nbsp;&nbsp;– Validate an email field using **JSON Schema**<br>&nbsp;&nbsp;– Convert CSV data into JSON format<br><br>• Solved **CSV-related problems**:<br>&nbsp;&nbsp;– Read a CSV file and print data<br>&nbsp;&nbsp;– Write data into a CSV file<br>&nbsp;&nbsp;– Read and count rows in a CSV file<br>&nbsp;&nbsp;– Modify a CSV file (update a value)<br><br>• Successfully **committed and pushed all CSV & JSON programs** to the remote repository |
+| **`java-collection-practice`** | Java Reflection API & Annotations | • Revised **Java Collections basics**<br><br>• Solved **Reflection API problems**:<br>&nbsp;&nbsp;– Get class information at runtime<br>&nbsp;&nbsp;– Access private fields using reflection<br>&nbsp;&nbsp;– Invoke private methods dynamically<br>&nbsp;&nbsp;– Retrieve annotations at runtime<br>&nbsp;&nbsp;– Access and modify static fields<br><br>• Solved **Annotations-related problems**:<br>&nbsp;&nbsp;– `@Override`<br>&nbsp;&nbsp;– `@Deprecated`<br>&nbsp;&nbsp;– Custom Annotation<br>&nbsp;&nbsp;– Repeatable Annotation<br><br>• Successfully **committed and pushed all reflection & annotation programs** to the remote repository |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 35 – CSV Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-iostream-practice/io-stream-practice/gcr-codebase/FileHandling/src/main/java/com/csvfilehandling* |
+| Day 35 – JSON Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-iostream-practice/io-stream-practice/gcr-codebase/FileHandling/src/main/java/com/jsonfilehandling* |
+| Day 35 – Reflection Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/reflection* |
+| Day 35 – Annotation Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/annotations* |
+
 
