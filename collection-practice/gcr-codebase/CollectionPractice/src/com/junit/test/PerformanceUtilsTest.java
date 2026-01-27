@@ -1,8 +1,10 @@
-package com.junit.performancetestingusingTimeout;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Timeout;
+
+import com.junit.main.PerformanceUtils;
 
 /*
  * PerformanceUtilsTest
