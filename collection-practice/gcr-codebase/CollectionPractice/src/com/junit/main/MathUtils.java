@@ -1,4 +1,4 @@
-package com.junit.testingexceptionhandling;
+package com.junit.main;
 
 /*
  * MathUtils
