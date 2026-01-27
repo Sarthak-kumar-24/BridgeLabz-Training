@@ -1,4 +1,4 @@
-package com.junit.testingfilehandlingmethods;
+package com.junit.main;
 
 import java.io.IOException;
 import java.nio.file.Files;
