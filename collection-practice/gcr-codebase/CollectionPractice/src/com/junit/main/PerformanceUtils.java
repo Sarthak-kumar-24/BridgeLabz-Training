@@ -1,4 +1,4 @@
-package com.junit.performancetestingusingTimeout;
+package com.junit.main;
 
 /*
  * PerformanceUtils
