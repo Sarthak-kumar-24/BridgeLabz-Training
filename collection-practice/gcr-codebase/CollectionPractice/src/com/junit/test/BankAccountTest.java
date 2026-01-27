@@ -1,9 +1,11 @@
-package com.junit.testingbankingtransactions;
+package com.junit.test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import com.junit.main.BankAccount;
 
 /*
  * BankAccountTest
