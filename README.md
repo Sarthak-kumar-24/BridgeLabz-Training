@@ -156,3 +156,34 @@ collection-practice/
 [Junit Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/junit)
 
 ---
+---
+
+# 📅 Week 7: Collection( ioStreams, Reflections and Annotations )
+
+---
+---
+
+## 📘 Day 35 – Reflections and annotations
+**Date:** 27-Jan-2026  
+
+- Understood collections basics.
+- Practiced some problems such as 
+- Reflections problems solved: 
+  - Get Class Information
+  - Access Private Field
+  - Invoke Private Method
+  - Retrieve Annotations at Runtime
+  - Access and Modify Static Fields
+- Annotations problems solved: 
+  - @Override 
+  - @Deprecated
+  - Custom Annotation
+  - Repeatable Annotation
+
+- Successfully pushed files to the remote repository.
+
+🔗 **Code Reference:**  
+👉 [Day 35 – Reflections Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/reflection)
+👉 [Day 35 – Annotations Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/annotations)
+
+---
