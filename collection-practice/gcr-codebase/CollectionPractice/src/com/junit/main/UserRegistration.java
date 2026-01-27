@@ -1,4 +1,4 @@
-package com.junit.testinguserregistration;
+package com.junit.main;
 
 /*
  * UserRegistration
