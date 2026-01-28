@@ -22,8 +22,8 @@ public class MergeCSVFiles {
 
 	public static void main(String[] args) {
 
-		String file1 = "students1.csv";
-		String file2 = "students2.csv";
+		String file1 = "O:\\New folder\\students.csv";
+		String file2 = "O:\\New folder\\employees_secure.csv";
 		String outputFile = "merged_students.csv";
 
 		// Map to store ID -> Name,Age
