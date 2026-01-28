@@ -921,4 +921,25 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 35 – Reflection Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/reflection* |
 | Day 35 – Annotation Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-collection-practice/collection-practice/gcr-codebase/CollectionPractice/src/com/annotations* |
 
+---
+
+## 📘 Day 36 – Java8 Features
+📅 **Date:** 28-Jan-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java8-practice`** | Java 8 – Functional Interfaces & Lambda Expressions | • Created and set up a **new GitHub branch** for Java 8 practice<br><br>• Successfully **pushed all files** to the remote repository<br><br>• Designed a **clear branch structure** for Java 8 programs:<br>&nbsp;&nbsp;– `gcr-codebase/functionalinterface`<br>&nbsp;&nbsp;– `gcr-codebase/lambdaexpr`<br><br>• Solved **Lambda Expression–based real-time problems**:<br>&nbsp;&nbsp;– **Smart Home Lighting Automation**<br>&nbsp;&nbsp;– **Custom Sorting in E-Commerce**<br>&nbsp;&nbsp;– **Name Uppercasing using Lambda**<br><br>• Solved **Functional Interface–based programs**:<br>&nbsp;&nbsp;– **Smart Device Control Interface**<br>&nbsp;&nbsp;– **Digital Payment Interface**<br>&nbsp;&nbsp;– **String Length Checker**<br>&nbsp;&nbsp;– **Password Strength Validator**<br>&nbsp;&nbsp;– **Date Format Utility**<br><br>• Practiced **Java 8 design principles**:<br>&nbsp;&nbsp;– Functional programming style<br>&nbsp;&nbsp;– Cleaner, concise code using lambdas<br>&nbsp;&nbsp;– Interface-driven development<br><br>• Successfully **committed and pushed all Java 8 programs** to the repository |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 36 – Functional Interface Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/functionalinterfaces* |
+| Day 36 – Lambda Expression Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/lambdaexp* |
+
+---
 
