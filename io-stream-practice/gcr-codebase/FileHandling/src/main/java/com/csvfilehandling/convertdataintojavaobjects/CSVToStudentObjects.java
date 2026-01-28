@@ -19,7 +19,7 @@ public class CSVToStudentObjects {
 
 	public static void main(String[] args) {
 
-		String filePath = "students.csv";
+		String filePath = "O:\\New folder\\students.csv";
 		List<Student> students = new ArrayList<>();
 		boolean isHeader = true;
 
