@@ -19,7 +19,7 @@ public class DetectDuplicateCSVRecords {
 
 	public static void main(String[] args) {
 
-		String filePath = "students.csv";
+		String filePath = "O:\\New folder\\students.csv";
 		boolean isHeader = true;
 
 		// Set to store unique IDs
