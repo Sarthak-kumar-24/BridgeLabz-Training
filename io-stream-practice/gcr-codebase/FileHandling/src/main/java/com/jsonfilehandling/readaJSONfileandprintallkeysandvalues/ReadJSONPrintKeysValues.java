@@ -1,13 +1,10 @@
 package com.jsonfilehandling.readaJSONfileandprintallkeysandvalues;
 
-// Import required classes for file reading
-import java.io.File;
-import java.util.Iterator;
-import java.util.Map;
+import org.json.JSONObject;
 
-// Import Jackson classes for JSON processing
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
+import java.util.Iterator;
 
 //------------------------------------------------------------
 //Program Name : ReadJSONPrintKeysValues
@@ -21,37 +18,33 @@ public class ReadJSONPrintKeysValues {
 
 	public static void main(String[] args) {
 
-		// Create ObjectMapper instance
-		// ObjectMapper is the main class used for JSON parsing in Jackson
-		ObjectMapper mapper = new ObjectMapper();
-
 		try {
-			// Read JSON file and convert it into JsonNode (tree structure)
-			JsonNode rootNode = mapper.readTree(new File("data.json"));
+			// Load JSON file from resources
+			InputStream is = ReadJSONPrintKeysValues.class.getClassLoader().getResourceAsStream("JSONFiles/users.json");
 
-			// Get an iterator for all fields (key-value pairs) in the JSON object
-			Iterator<Map.Entry<String, JsonNode>> fields = rootNode.fields();
+			if (is == null) {
+				System.out.println("JSON file not found");
+				return;
+			}
 
-			// Loop through each key-value pair
-			while (fields.hasNext()) {
+			// Convert InputStream to String
+			String jsonText = new String(is.readAllBytes(), StandardCharsets.UTF_8);
 
-				// Get the current field (key-value pair)
-				Map.Entry<String, JsonNode> field = fields.next();
+			// Convert String to JSONObject
+			JSONObject jsonObject = new JSONObject(jsonText);
 
-				// Extract key
-				String key = field.getKey();
+			// Get all keys and print key = value
+			Iterator<String> keys = jsonObject.keys();
 
-				// Extract value
-				JsonNode value = field.getValue();
+			while (keys.hasNext()) {
+				String key = keys.next();
+				Object value = jsonObject.get(key);
 
-				// Print key and value
-				System.out.println("Key: " + key + ", Value: " + value.asText());
+				System.out.println(key + " = " + value);
 			}
 
 		} catch (Exception e) {
-			// Handle file reading or JSON parsing errors
 			e.printStackTrace();
 		}
 	}
-
 }
