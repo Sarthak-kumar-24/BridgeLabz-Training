@@ -20,7 +20,7 @@ public class WriteCSV {
 	public static void main(String[] args) {
 
 		// Name of the CSV file to be created
-		String filePath = "employees.csv";
+		String filePath = "O:\\New folder\\students.csv";
 
 		// Try-with-resources ensures the file is closed automatically
 		try (BufferedWriter bw = new BufferedWriter(new FileWriter(filePath))) {
