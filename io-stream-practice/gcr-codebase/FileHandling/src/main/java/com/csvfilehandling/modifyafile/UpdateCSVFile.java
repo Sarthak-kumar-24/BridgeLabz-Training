@@ -22,8 +22,8 @@ public class UpdateCSVFile {
 
 	public static void main(String[] args) {
 
-		String inputFile = "employees.csv";
-		String outputFile = "updated_employees.csv";
+		String inputFile = "O:\\New folder\\students.csv";
+		String outputFile = "O:\\New folder\\updated_employees.csv";
 
 		boolean isHeader = true;
 
