@@ -1,66 +1,60 @@
 package com.jsonfilehandling.validateanemailfieldusingJSONschema;
 
-//Import File class for reading files
-import java.io.File;
-
-//Import Jackson ObjectMapper for JSON parsing
-import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.JsonNode;
-
-//Import JSON Schema validator classes
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.networknt.schema.JsonSchema;
 import com.networknt.schema.JsonSchemaFactory;
 import com.networknt.schema.SpecVersion;
 import com.networknt.schema.ValidationMessage;
 
+import java.io.File;
+import java.io.InputStream;
 import java.util.Set;
 
 /**
-* This class validates a JSON file against a JSON Schema
-* to ensure the email field is present and correctly formatted.
-*/
+ * This class validates a JSON file against a JSON Schema to ensure the email
+ * field is present and correctly formatted.
+ */
 public class ValidateEmailUsingSchema {
 
- /**
-  * Main method – execution starts here
-  */
- public static void main(String[] args) {
+	public static void main(String[] args) {
 
-     try {
-         // Create ObjectMapper instance
-         ObjectMapper mapper = new ObjectMapper();
+		try {
+			ObjectMapper mapper = new ObjectMapper();
 
-         // Read JSON data file into JsonNode
-         JsonNode jsonData = mapper.readTree(new File("data.json"));
+			// Load JSON data from resources
+			InputStream jsonStream = ValidateEmailUsingSchema.class.getClassLoader()
+					.getResourceAsStream("JSONFiles/users.json");
 
-         // Read JSON Schema file into JsonNode
-         JsonNode schemaNode = mapper.readTree(new File("email-schema.json"));
+			// Load JSON Schema from resources
+			InputStream schemaStream = ValidateEmailUsingSchema.class.getClassLoader()
+					.getResourceAsStream("JSONFiles/email-schema.json");
 
-         // Create JsonSchemaFactory with specified schema version
-         JsonSchemaFactory factory =
-                 JsonSchemaFactory.getInstance(SpecVersion.VersionFlag.V7);
+			if (jsonStream == null || schemaStream == null) {
+				throw new RuntimeException("JSON or Schema file not found in resources");
+			}
+			// Parse JSON and Schema
+			JsonNode jsonData = mapper.readTree(jsonStream);
+			JsonNode jsonSchema = mapper.readTree(schemaStream);
 
-         // Create JsonSchema object from schemaNode
-         JsonSchema schema = factory.getSchema(schemaNode);
+			// Create schema validator
+			JsonSchemaFactory factory = JsonSchemaFactory.getInstance(SpecVersion.VersionFlag.V7);
 
-         // Validate JSON data against schema
-         Set<ValidationMessage> errors = schema.validate(jsonData);
+			JsonSchema schema = factory.getSchema(jsonSchema);
 
-         // Check if validation errors exist
-         if (errors.isEmpty()) {
-             System.out.println(" Email is valid according to JSON Schema");
-         } else {
-             System.out.println(" Email validation failed");
+			// Validate
+			Set<ValidationMessage> errors = schema.validate(jsonData);
 
-             // Print all validation error messages
-             for (ValidationMessage error : errors) {
-                 System.out.println(error.getMessage());
-             }
-         }
+			if (errors.isEmpty()) {
+				System.out.println(" Email is valid as per JSON Schema");
+			} else {
+				System.out.println(" Validation errors:");
+				errors.forEach(err -> System.out.println(err.getMessage()));
+			}
 
-     } catch (Exception e) {
-         // Handle file reading or validation errors
-         e.printStackTrace();
-     }
- }
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
 }
