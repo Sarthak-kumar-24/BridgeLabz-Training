@@ -3,9 +3,12 @@ package com.jsonfilehandling.readaJSONfileandextractonlyspecificfields;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
+import org.json.JSONArray;
 import org.json.JSONObject;
 
 //------------------------------------------------------------
@@ -20,19 +23,26 @@ public class ReadJSONSpecificFields {
 	public static void main(String[] args) {
 
 		try {
-			// Read entire JSON file as String
-			String content = new String(Files.readAllBytes(Paths.get("user.json")));
+			// Step 1: Read the JSON file line by line
+			// Load JSON file from resources folder
+			InputStream is = ReadJSONSpecificFields.class.getClassLoader().getResourceAsStream("JSONFiles/users.json"
+					+ "");
+			if (is == null) {
+				throw new RuntimeException("users.json not found in resources");
+			}
+			// Convert InputStream to String
+			String jsonText = new String(is.readAllBytes(), StandardCharsets.UTF_8);
 
-			// Convert String to JSONObject
-			JSONObject jsonObject = new JSONObject(content);
+			JSONObject jsonObject = new JSONObject(jsonText);
+			JSONArray users = jsonObject.getJSONArray("users");
 
-			// Extract specific fields
-			String name = jsonObject.getString("name");
-			String email = jsonObject.getString("email");
+			for (int i = 0; i < users.length(); i++) {
+				JSONObject user = users.getJSONObject(i);
 
-			// Print extracted values
-			System.out.println("Name: " + name);
-			System.out.println("Email: " + email);
+				System.out.println("Name  : " + user.getString("name"));
+				System.out.println("Email : " + user.getString("email"));
+				System.out.println("------------");
+			}
 
 		} catch (Exception e) {
 			e.printStackTrace();
