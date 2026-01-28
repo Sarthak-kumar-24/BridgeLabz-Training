@@ -18,7 +18,7 @@ public class SearchCSVRecord {
 	public static void main(String[] args) {
 
 		// Path of the CSV file
-		String filePath = "employees.csv";
+		String filePath = "O:\\New folder\\students.csv";
 
 		// Scanner to take user input
 		Scanner scanner = new Scanner(System.in);
