@@ -1,11 +1,10 @@
 package com.jsonfilehandling.parseJSONandfilteronlythoserecordswhereagegreater;
 
-// Import required Jackson classes for JSON parsing
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import org.json.JSONArray;
+import org.json.JSONObject;
 
-// Import Iterator to loop through JSON array
-import java.util.Iterator;
+import java.io.InputStream;
+import java.nio.charset.StandardCharsets;
 
 //------------------------------------------------------------
 //Program Name : FilterJSONByAge
@@ -18,44 +17,40 @@ public class FilterJSONByAge {
 
 	public static void main(String[] args) {
 
-		// JSON array as String input
-		String jsonData = "[" + "{ \"name\": \"Alice\", \"age\": 22, \"email\": \"alice@example.com\" },"
-				+ "{ \"name\": \"Bob\", \"age\": 28, \"email\": \"bob@example.com\" },"
-				+ "{ \"name\": \"Charlie\", \"age\": 30, \"email\": \"charlie@example.com\" }" + "]";
-
-		// Create ObjectMapper instance
-		// ObjectMapper is used to parse JSON into tree structure
-		ObjectMapper mapper = new ObjectMapper();
-
 		try {
-			// Parse JSON string into JsonNode tree
-			JsonNode rootNode = mapper.readTree(jsonData);
+			// Load JSON from resources
+			InputStream is = FilterJSONByAge.class.getClassLoader().getResourceAsStream("JSONFiles/users.json");
 
-			// Loop through each element in the JSON array
-			for (JsonNode node : rootNode) {
+			if (is == null) {
+				System.out.println("users.json not found");
+				return;
+			}
 
-				// Extract age field from current JSON object
-				int age = node.get("age").asInt();
+			// Convert InputStream to String
+			String jsonText = new String(is.readAllBytes(), StandardCharsets.UTF_8);
 
-				// Check condition: age greater than 25
+			// Parse JSON
+			JSONObject jsonObject = new JSONObject(jsonText);
+			JSONArray usersArray = jsonObject.getJSONArray("users");
+
+			// Filter users older than 25
+			for (int i = 0; i < usersArray.length(); i++) {
+				JSONObject user = usersArray.getJSONObject(i);
+
+				int age = user.getInt("age");
+
 				if (age > 25) {
-
-					// Extract required fields
-					String name = node.get("name").asText();
-					String email = node.get("email").asText();
-
-					// Print filtered record
-					System.out.println("Name: " + name);
-					System.out.println("Age: " + age);
-					System.out.println("Email: " + email);
-					System.out.println("---------------------");
+					System.out.println("Name  : " + user.getString("name"));
+					System.out.println("Age   : " + age);
+					System.out.println("Email : " + user.getString("email"));
+					System.out.println("-------------");
 				}
 			}
 
 		} catch (Exception e) {
-			// Handle parsing or processing exceptions
 			e.printStackTrace();
 		}
+
 	}
 
 }
