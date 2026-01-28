@@ -19,7 +19,7 @@ public class CountCSVRows {
 	public static void main(String[] args) {
 
 		// Path of the CSV file
-		String filePath = "employees.csv";
+		String filePath = "O:\\New folder\\students.csv";
 
 		int recordCount = 0;
 		boolean isHeader = true;
