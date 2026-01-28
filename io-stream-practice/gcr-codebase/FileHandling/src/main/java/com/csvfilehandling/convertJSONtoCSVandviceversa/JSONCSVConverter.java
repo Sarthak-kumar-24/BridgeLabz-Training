@@ -1,6 +1,5 @@
 package com.csvfilehandling.convertJSONtoCSVandviceversa;
 
-
 import java.io.*;
 import java.util.*;
 
@@ -15,7 +14,7 @@ public class JSONCSVConverter {
 
 	public static void main(String[] args) throws Exception {
 
-		List<Student> students = readJson("students.json");
+		List<Student> students = readJson("O:\\New folder\\students.json");
 		writeCsv(students, "students.csv");
 		readCsvAndWriteJson("students.csv", "students_from_csv.json");
 	}
@@ -28,10 +27,9 @@ public class JSONCSVConverter {
 		List<Student> students = new ArrayList<>();
 
 		BufferedReader br = new BufferedReader(new FileReader(file));
-		String json = br.readLine();
+		String json = br.readLine(); // single-line JSON
 		br.close();
 
-		// Remove [ ] and split objects
 		json = json.replace("[", "").replace("]", "");
 		String[] objects = json.split("\\},\\{");
 
@@ -85,7 +83,7 @@ public class JSONCSVConverter {
 		}
 
 		bw.close();
-		System.out.println("JSON -> CSV done (no library)");
+		System.out.println("JSON -> CSV done");
 	}
 
 	// ------------------------------------------------------------
@@ -121,6 +119,7 @@ public class JSONCSVConverter {
 		br.close();
 		bw.close();
 
-		System.out.println("CSV -> JSON done (no library)");
+		System.out.println("CSV -> JSON done");
 	}
+
 }
