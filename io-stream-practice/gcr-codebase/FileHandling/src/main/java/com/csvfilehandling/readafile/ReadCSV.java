@@ -16,7 +16,7 @@ public class ReadCSV {
 
 	public static void main(String[] args) {
 
-		String filePath = "students.csv";
+		String filePath = "O:\\New folder\\students.csv";
 
 		try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
 
