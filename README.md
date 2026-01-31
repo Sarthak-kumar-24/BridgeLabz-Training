@@ -943,3 +943,60 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 
 ---
 
+# 📘 Day 37 – Functional Interface  
+📅 **Date:** 29-Jan-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java8-programming-practice`** | Java 8 – Functional Interfaces | • Solved multiple **functional interface based problems**<br><br>• Implemented interface-driven real-world scenarios:<br>&nbsp;&nbsp;– **Smart Device Control Interface**<br>&nbsp;&nbsp;– **Digital Payment Interface**<br>&nbsp;&nbsp;– **String Length Checker**<br>&nbsp;&nbsp;– **Password Strength Validator**<br>&nbsp;&nbsp;– **Date Format Utility**<br><br>• Strengthened concepts of:<br>&nbsp;&nbsp;– Custom functional interfaces<br>&nbsp;&nbsp;– Lambda compatibility<br>&nbsp;&nbsp;– Single abstract method rule<br><br>• Verified execution and project structure consistency |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 37 – Functional Interface Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/functionalinterfaces* |
+
+---
+
+# 📘 Day 38 – Stream API  
+📅 **Date:** 30-Jan-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java8-programming-practice`** | Java 8 – Stream API | • Practiced **Stream API real-time problem solving**<br><br>• Implemented stream-based scenarios:<br>&nbsp;&nbsp;– **Top 5 Trending Movies**<br>&nbsp;&nbsp;– **Hospital Doctor Availability**<br>&nbsp;&nbsp;– **Insurance Claim Analysis**<br><br>• Applied stream operations:<br>&nbsp;&nbsp;– filter()<br>&nbsp;&nbsp;– map()<br>&nbsp;&nbsp;– sorted()<br>&nbsp;&nbsp;– limit()<br>&nbsp;&nbsp;– collect()<br><br>• Improved functional-style data processing skills |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 38 – Stream API Programs | 👉 *Day 38 – Stream API Programs* |
+
+---
+
+# 📘 Day 39 – Collectors  
+📅 **Date:** 31-Jan-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`jjava8-programming-practice`** | Java 8 – Collectors | • Practiced **Collectors framework with Stream API**<br><br>• Solved grouping & aggregation scenarios:<br>&nbsp;&nbsp;– **Student Result Grouping**<br>&nbsp;&nbsp;– **Word Frequency Counter**<br>&nbsp;&nbsp;– **Order Revenue Summary**<br><br>• Used collector operations:<br>&nbsp;&nbsp;– groupingBy()<br>&nbsp;&nbsp;– counting()<br>&nbsp;&nbsp;– summarizing()<br>&nbsp;&nbsp;– mapping()<br><br>• Strengthened stream-to-collection transformations |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 39 – Collectors Programs | 👉 *Day 39 – Collectors Programs* |
+
+---
+
