@@ -22,6 +22,15 @@ BridgeLabz-Training/
   - Smart Home Lighting Automation
   - Custom Sorting in E-Commerce
   - Name Uppercasing
+ 
+🔗 **Code Reference:**  
+👉 [lambda expression Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/lambdaexp)
+
+---
+
+## 📘 Day 37 – Functional Interface
+**Date:** 29jan-2026  
+
 - solved problms on functional interface
   - Smart Device Control Interface
   - Digital Payment Interface
@@ -30,6 +39,32 @@ BridgeLabz-Training/
   - Date Format Utility
  
 🔗 **Code Reference:**  
-👉 [Day 26 – functional interface Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/functionalinterfaces)
-👉 [lambda expression Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/lambdaexp)
+👉 [Day 37 – functional interface Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/functionalinterfaces)
+
+---
+
+## 📘 Day 38 – Stream API
+**Date:** 30jan-2026  
+
+- solved problms on functional interface
+  - Top 5 Trending Movies
+  - Hospital Doctor Availability
+  - Insurance Claim Analysis
+ 
+🔗 **Code Reference:**  
+👉 [Day 38 – Stream API Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/streamAPI)
+
+---
+
+## 📘 Day 39 – Collectors
+**Date:** 31jan-2026  
+
+- solved problms on functional interface
+  - Student Result Grouping
+  - Word Frequency Counter
+  - Order Revenue Summary
+ 
+🔗 **Code Reference:**  
+👉 [Day 39 – Collectors Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/collectors)
+
 ---
