@@ -3,7 +3,7 @@
 ---
 ---
 
-## 📘 Day 36 – Functional Interface & lambda Expr 
+## 📘 Day 36 – Functional Interface & lambda Expr
 **Date:** 28jan-2026  
 
 - Created and set up GitHub branch.
