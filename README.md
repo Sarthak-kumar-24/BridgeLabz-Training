@@ -68,3 +68,26 @@ BridgeLabz-Training/
 👉 [Day 39 – Collectors Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/gcr-codebase/Java8Practice/src/com/collectors)
 
 ---
+
+# 📅 Week 8: Java8 Features
+
+---
+
+## 📘 Day 41 – Scenarios on comparator & Consumers
+**Date:** 03Feb-2026  
+
+- solved problms on comparators
+  - AccountComparator
+  - EmployeeComparator
+  - StringLengthComparator
+  - ProductComparator
+- solved problms on consumers
+  - AccountBalanceConsumer
+  - EmployeeLoginConsumer
+  - OrderConfirmationConsumer
+  - StudentConsumer
+ 
+🔗 **Code Reference:**  
+👉 [Day 41 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/functional)
+
+---
