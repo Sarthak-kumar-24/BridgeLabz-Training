@@ -990,13 +990,40 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 
 | Branch Name | Focus Area | Work Done |
 |------------|-----------|-----------|
-| **`jjava8-programming-practice`** | Java 8 – Collectors | • Practiced **Collectors framework with Stream API**<br><br>• Solved grouping & aggregation scenarios:<br>&nbsp;&nbsp;– **Student Result Grouping**<br>&nbsp;&nbsp;– **Word Frequency Counter**<br>&nbsp;&nbsp;– **Order Revenue Summary**<br><br>• Used collector operations:<br>&nbsp;&nbsp;– groupingBy()<br>&nbsp;&nbsp;– counting()<br>&nbsp;&nbsp;– summarizing()<br>&nbsp;&nbsp;– mapping()<br><br>• Strengthened stream-to-collection transformations |
+| **`java8-programming-practice`** | Java 8 – Collectors | • Practiced **Collectors framework with Stream API**<br><br>• Solved grouping & aggregation scenarios:<br>&nbsp;&nbsp;– **Student Result Grouping**<br>&nbsp;&nbsp;– **Word Frequency Counter**<br>&nbsp;&nbsp;– **Order Revenue Summary**<br><br>• Used collector operations:<br>&nbsp;&nbsp;– groupingBy()<br>&nbsp;&nbsp;– counting()<br>&nbsp;&nbsp;– summarizing()<br>&nbsp;&nbsp;– mapping()<br><br>• Strengthened stream-to-collection transformations |
 
 ## 🔗 Code Reference
 
 | Description | Link |
 |------------|------|
 | Day 39 – Collectors Programs | 👉 *Day 39 – Collectors Programs* |
+
+---
+---
+
+# 📅 Week 8: Scenario-Based Problems on Collectors, Consumers, Functions 
+
+---
+---
+
+# 📘 Day 41 – Scenarios on Comparator & Consumers  
+📅 **Date:** 03-Feb-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java8-programming-practice`** | Java 8 – Comparator & Consumer | • Solved real-world **Comparator scenarios**:<br><br>&nbsp;&nbsp;– **AccountComparator**<br>&nbsp;&nbsp;– **EmployeeComparator**<br>&nbsp;&nbsp;– **StringLengthComparator**<br>&nbsp;&nbsp;– **ProductComparator**<br><br>• Practiced **Consumer functional interface** use cases:<br><br>&nbsp;&nbsp;– **AccountBalanceConsumer**<br>&nbsp;&nbsp;– **EmployeeLoginConsumer**<br>&nbsp;&nbsp;– **OrderConfirmationConsumer**<br>&nbsp;&nbsp;– **StudentConsumer**<br><br>• Improved understanding of:<br>&nbsp;&nbsp;– Custom sorting logic<br>&nbsp;&nbsp;– Lambda expressions<br>&nbsp;&nbsp;– Side-effect based operations |
+
+---
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 41 – Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/functional* |
 
 ---
 
