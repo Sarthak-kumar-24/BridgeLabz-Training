@@ -91,3 +91,16 @@ BridgeLabz-Training/
 👉 [Day 41 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/functional)
 
 ---
+
+## 📘 Day 42 – Scenarios on custom
+**Date:** 04Feb-2026  
+
+- solved problms on custom lmbda expr
+  - Bonus Calculator
+  - Loan Eligibilty Checker
+  - Tax Calculator
+ 
+🔗 **Code Reference:**  
+👉 [Day 42 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/functional)
+
+---
