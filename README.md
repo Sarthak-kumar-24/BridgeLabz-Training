@@ -1017,8 +1017,6 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`java8-programming-practice`** | Java 8 – Comparator & Consumer | • Solved real-world **Comparator scenarios**:<br><br>&nbsp;&nbsp;– **AccountComparator**<br>&nbsp;&nbsp;– **EmployeeComparator**<br>&nbsp;&nbsp;– **StringLengthComparator**<br>&nbsp;&nbsp;– **ProductComparator**<br><br>• Practiced **Consumer functional interface** use cases:<br><br>&nbsp;&nbsp;– **AccountBalanceConsumer**<br>&nbsp;&nbsp;– **EmployeeLoginConsumer**<br>&nbsp;&nbsp;– **OrderConfirmationConsumer**<br>&nbsp;&nbsp;– **StudentConsumer**<br><br>• Improved understanding of:<br>&nbsp;&nbsp;– Custom sorting logic<br>&nbsp;&nbsp;– Lambda expressions<br>&nbsp;&nbsp;– Side-effect based operations |
 
----
-
 ## 🔗 Code Reference
 
 | Description | Link |
@@ -1027,3 +1025,23 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 
 ---
 
+# 📘 Day 42 – Scenarios on Custom Lambda & Design Patterns  
+📅 **Date:** 04-Feb-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java8-programming-practice`** | Java 8 – Custom Lambda Scenarios | • Solved real-world problems using **custom lambda expressions**:<br><br>&nbsp;&nbsp;– **Bonus Calculator**<br>&nbsp;&nbsp;– **Loan Eligibility Checker**<br>&nbsp;&nbsp;– **Tax Calculator**<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Functional interfaces<br>&nbsp;&nbsp;– Business logic via lambdas<br>&nbsp;&nbsp;– Clean and readable lambda design |
+| **`java-design-pattern-practice`** | Core Design Patterns | • Created and configured **GitHub branch**<br>• Successfully pushed code to **remote repository**<br>• Designed proper **project & package structure**<br><br>• Studied and implemented key design patterns:<br><br>&nbsp;&nbsp;– **Singleton Pattern**<br>&nbsp;&nbsp;– **Observer Pattern**<br>&nbsp;&nbsp;– **Driver Pattern**<br>&nbsp;&nbsp;– **Factory Pattern**<br>&nbsp;&nbsp;– **Abstract Factory Pattern**<br><br>• Solved real-world problem:<br>&nbsp;&nbsp;– **Smart University Library Management System** |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 42 – java 8 Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/functional* |
+| Day 42 – Design Patterns Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-design-pattern-practice/design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/designing/smartuniversitylibrarymanagementsystem* |
+
+---
