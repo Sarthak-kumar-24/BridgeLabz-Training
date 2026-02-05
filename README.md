@@ -1045,3 +1045,27 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 42 – Design Patterns Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-design-pattern-practice/design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/designing/smartuniversitylibrarymanagementsystem* |
 
 ---
+
+# 📘 Day 43 – Scenarios on  Lambda & multithreading  
+📅 **Date:** 05-Feb-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java8-programming-practice`** | Java 8 – Stream API, Functional Interfaces & Lambda Expressions | • Solved real-world problems using **lambda expressions**:<br><br>&nbsp;&nbsp;– **AnnualSalaryFunction**<br>&nbsp;&nbsp;– **EmployeeNameUppercaseFunction**<br>&nbsp;&nbsp;– **StudentGradeFunction**<br><br>• Solved real-world problems using **custom lambda scenarios**:<br><br>&nbsp;&nbsp;– **BasicLambdaScenario**<br>&nbsp;&nbsp;– **EcommerceLambdaScenario**<br>&nbsp;&nbsp;– **BankingLambdaScenario**<br><br>• Solved logical problems using **Stream API**:<br><br>&nbsp;&nbsp;– **All Non-Repeating Characters**<br>&nbsp;&nbsp;– **Character Frequency Count**<br>&nbsp;&nbsp;– **Remove Non-Alphanumeric Characters**<br>&nbsp;&nbsp;– **Remove Duplicate Characters**<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Functional interfaces (Function, Predicate, Consumer, Supplier)<br>&nbsp;&nbsp;– Lambda expressions in real business logic<br>&nbsp;&nbsp;– Stream API transformations and filtering<br>&nbsp;&nbsp;– Writing clean, readable, and functional-style code |
+| **`java-design-pattern-practice`** | Java – Multithreading & Concurrent Programming | • Solved real-world multithreading problems:<br><br>&nbsp;&nbsp;– **Banking System with Multiple Transactions**<br>&nbsp;&nbsp;– **Download Manager Simulation**<br>&nbsp;&nbsp;– **Print Shop Job Scheduler**<br>&nbsp;&nbsp;– **Restaurant Order Processing System**<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Thread creation using Runnable and Thread<br>&nbsp;&nbsp;– Concurrent execution and task handling<br>&nbsp;&nbsp;– Synchronization and thread safety concepts<br>&nbsp;&nbsp;– Real-world multithreading system design |
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 43 – Stream API, Functional & Lambda Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com* |
+| Day 43 – Multithreading Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-design-pattern-practice/design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading* |
+
+---
+
+
+
