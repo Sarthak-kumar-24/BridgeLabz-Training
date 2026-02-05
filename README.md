@@ -112,11 +112,11 @@ BridgeLabz-Training/
   - AnnualSalaryFunction
   - EmployeeNameUppercaseFunction
   - StudentGradeFunction
- - solved problms on Functional expr
+- solved problms on Functional expr
   - BasicLambdaScenario
   - EcommerceLambdaScenario
   - BankingLambdaScenario
- - solved problms on Stream API expr
+- solved problms on Stream API expr
   - All Non  Repeating Characters
   - Character Frequency Count
   - Remove Non Alphanumeric Characters
