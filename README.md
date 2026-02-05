@@ -104,3 +104,25 @@ BridgeLabz-Training/
 👉 [Day 42 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/functional)
 
 ---
+
+## 📘 Day 43 – Scenarios on Stream API & Functional and lambda expr scenarios
+**Date:** 05Feb-2026  
+
+- solved problms on lmbda expr
+  - AnnualSalaryFunction
+  - EmployeeNameUppercaseFunction
+  - StudentGradeFunction
+ - solved problms on Functional expr
+  - BasicLambdaScenario
+  - EcommerceLambdaScenario
+  - BankingLambdaScenario
+ - solved problms on Stream API expr
+  - All Non  Repeating Characters
+  - Character Frequency Count
+  - Remove Non Alphanumeric Characters
+  - Remove Duplicate Characters
+ 
+🔗 **Code Reference:**  
+👉 [Day 43 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/)
+
+---
