@@ -106,13 +106,13 @@ A structured hands-on learning journey covering Java fundamentals, Object-Orient
 
 | Day | Date | Focus Area | Work Summary |
 |----|------|-----------|--------------|
-| Day 41 | 02-Feb-2026 | Comparator & Consumer | Sorting logic and workflow consumers |
-| Day 42 | 03-Feb-2026 | Custom Lambdas | Business logic using lambdas |
-| Day 43 | 04-Feb-2026 | Design Patterns | Singleton, Factory, Observer, Abstract Factory |
+| Day 41 | 03-Feb-2026 | Comparator & Consumer | Sorting logic and workflow consumers |
+| Day 42 | 04-Feb-2026 | Custom Lambdas | Business logic using lambdas |
+| Day 43 | 05-Feb-2026 | Design Patterns & multithreading | Singleton, Factory, Observer, Abstract Factory |
+| Day 44 | 06-Feb-2026 | Supplier & Multithreading | Solved Supplier interface scenarios, modeled real-world entities, and implemented a concurrent banking system using multithreading |
 
 ---
-
-
+---
 
 # 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
@@ -751,6 +751,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`dsa-practice`** | DSA Scenario-Based Practice | • Created and set up branch folders<br>• Revised DSA fundamentals:<br>&nbsp;&nbsp;– HashMap<br>&nbsp;&nbsp;– Linked List<br>• Implemented real-world scenario problems:<br>&nbsp;&nbsp;– BookShelf – Library Organizer (HashMap + Linked List)<br>&nbsp;&nbsp;– BrowserBuddy – Tab History Manager (Doubly Linked List + Stack)<br>&nbsp;&nbsp;– AmbulanceRoute – Emergency Patient Navigation (Circular Linked List)<br>• Successfully pushed files to the remote repository |
 
 
+
 ### 🔗 Code Reference
 
 | Description | Link |
@@ -779,6 +780,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`java-oops-practice`** | OOP Concepts & Scenario-Based Programs | • Revised core OOP concepts (Inheritance, Polymorphism, Encapsulation, Interfaces)<br>• Implemented scenario-based OOP mini-projects:<br>&nbsp;&nbsp;– HomeNest – Smart Home Device Manager<br>&nbsp;&nbsp;– BudgetWise – Personal Finance Tracker<br>&nbsp;&nbsp;– GameBox – Mobile Game Distribution Platform<br>• Organized programs into structured folders<br>• Successfully committed & pushed changes to remote repository |
 
 
+
 ### 🔗 Code Reference
 
 | Description | Link |
@@ -800,6 +802,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`leetcode-practice`** | Arrays & Backtracking (LeetCode) | • Solved LeetCode-based problems<br>• Implemented optimized solutions using recursion and array manipulation<br>• Problems covered:<br>&nbsp;&nbsp;– Combination Sum (Backtracking)<br>&nbsp;&nbsp;– Combination Sum II (Backtracking + Duplicate Handling)<br>&nbsp;&nbsp;– First Missing Positive Number (Array Index Mapping)<br>• Organized programs into appropriate folders<br>• Successfully committed and pushed all changes |
 | **`dsa-scenarios-practice`** | Data Structures & Algorithms (Scenarios) | • Created and set up branch folders<br>• Revised DSA fundamentals (HashMap, Stack, Queue, Linked List)<br>• Implemented real-world scenario-based problems:<br>&nbsp;&nbsp;– ExamProctor – Online Exam Review System (Stack + HashMap)<br>&nbsp;&nbsp;– ParcelTracker – Delivery Chain Management (Singly Linked List)<br>&nbsp;&nbsp;– SmartCheckout – Supermarket Billing Queue (Queue + HashMap)<br>• Successfully pushed files to the remote repository |
 | **`java-oops-practice`** | OOP Concepts & Scenario Programs | • Revised OOP basics (Classes, Objects, Encapsulation)<br>• Implemented scenario-based OOP programs:<br>&nbsp;&nbsp;– PayXpress – Utility Bill Payment System<br>&nbsp;&nbsp;– Bird Sanctuary Management System<br>• Maintained clean folder structure<br>• Successfully committed and pushed changes |
+
 
 
 ### 🔗 Code Reference
@@ -825,6 +828,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`dsa-practice`** | DSA – Sorting & Binary Tree (Scenario-Based) | • Created and set up branch folders<br>• Revised DSA fundamentals (HashMap, Linked List)<br>• Implemented real-world scenario-based sorting problems:<br>&nbsp;&nbsp;– EventManager – Ticket Price Optimizer (Quick Sort)<br>&nbsp;&nbsp;– ExamCell – Student Rank Generator (Merge Sort)<br>&nbsp;&nbsp;– HospitalQueue – Patient Sorting by Criticality (Bubble Sort)<br>&nbsp;&nbsp;– SmartShelf – Real-Time Book Arrangement (Insertion Sort)<br>&nbsp;&nbsp;– ZipZipMart – Daily Sales Summary Report (Merge Sort)<br>• Practiced Binary Tree concepts and problems<br>• Successfully committed and pushed files to the remote repository |
 
 
+
 ### 🔗 Code Reference
 
 | Description | Link |
@@ -846,6 +850,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`dsa-practice`** | DSA – Sorting (Scenario-Based) | • Created and set up branch folders<br>• Revised DSA sorting fundamentals<br>• Implemented scenario-based sorting problems:<br>&nbsp;&nbsp;– **RoboWarehouse** – Shelf Loading Robot (Insertion Sort)<br>&nbsp;&nbsp;– **CinemaHouse** – Movie Time Sorting (Bubble Sort)<br>&nbsp;&nbsp;– **CropMonitor** – Sensor Data Ordering (Quick Sort)<br>• Understood real-world mapping of sorting algorithms<br>• Successfully committed and pushed files to the remote repository |
 | **`java-collection-practice`** | Java Collections Framework | • Created and set up branch folders<br>• Revised Generics basics<br>• Practiced problems using **List Interface**:<br>&nbsp;&nbsp;– Reverse a List<br>&nbsp;&nbsp;– Find Frequency of Elements<br>&nbsp;&nbsp;– Rotate Elements in a List<br>&nbsp;&nbsp;– Remove Duplicates While Preserving Order<br>&nbsp;&nbsp;– Find the Nth Element from the End<br>• Practiced problems using **Set Interface**:<br>&nbsp;&nbsp;– Check if Two Sets Are Equal<br>&nbsp;&nbsp;– Union and Intersection of Two Sets<br>&nbsp;&nbsp;– Symmetric Difference<br>• Practiced problems using **Queue Interface**:<br>&nbsp;&nbsp;– Reverse a Queue<br>&nbsp;&nbsp;– Generate Binary Numbers Using a Queue<br>&nbsp;&nbsp;– Implement a Stack Using Queues<br>• Practiced problems using **Map Interface**:<br>&nbsp;&nbsp;– Word Frequency Counter<br>&nbsp;&nbsp;– Invert a Map<br>&nbsp;&nbsp;– Find the Key with the Highest Value<br>• Successfully committed and pushed files to the remote repository |
+
 
 
 ### 🔗 Code Reference
@@ -871,6 +876,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`dsa-practice`** | DSA – Sorting (Scenario-Based) | • Created and set up branch folders<br>• Revised fundamentals of DSA sorting algorithms<br>• Implemented real-world scenario-based sorting programs:<br>&nbsp;&nbsp;– **IceCreamRush** – Sorting Ice Cream Flavors by Popularity (Bubble Sort)<br>&nbsp;&nbsp;– **SmartLibrary** – Auto-Sort Borrowed Books (Insertion Sort)<br>&nbsp;&nbsp;– **ArtExpo** – Sort Artists by Registration Time (Insertion Sort)<br>&nbsp;&nbsp;– **FleetManager** – Vehicle Maintenance Scheduler (Merge Sort)<br>• Understood practical use-cases of different sorting techniques<br>• Successfully committed and pushed files to the remote repository |
 | **`java-oops-practice`** | OOPs – Scenario-Based Programs | • Revised and understood core OOP concepts<br>• Implemented scenario-based OOP programs:<br>&nbsp;&nbsp;– **GeoMeasure Solutions**<br>&nbsp;&nbsp;– **Bag-n-Ball Organizer**<br>• Applied object-oriented design principles in problem solving<br>• Successfully committed and pushed files to the remote repository |
+
 
 
 ### 🔗 Code Reference
@@ -899,6 +905,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`dsa-practice`** | DSA – Sorting (Scenario-Based) | • Created and set up branch folders<br>• Revised core DSA sorting fundamentals<br>• Implemented scenario-based sorting programs:<br>&nbsp;&nbsp;– **EduResults** – Rank Sheet Generator (Merge Sort)<br>&nbsp;&nbsp;– **FlashDealz** – Product Sorting by Discount (Quick Sort)<br>&nbsp;&nbsp;– **FitnessTracker** – Daily Step Count Ranking (Bubble Sort)<br>• Mapped real-world problems to appropriate sorting algorithms<br>• Successfully committed and pushed files to the remote repository |
 | **`java-oops-practice`** | Java OOPs – Scenario-Based Programs | • Revised and understood core OOP concepts (Classes, Objects, Encapsulation, Constructors)<br>• Implemented scenario-based OOP program:<br>&nbsp;&nbsp;– **Address Book System**<br>• Applied object-oriented design principles in problem-solving<br>• Successfully committed and pushed files to the remote repository |
+
+
 
 ### 🔗 Code Reference
 
@@ -942,6 +950,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`java-collection-practice`** | Java Streams & I/O | • Revised and understood Java **Streams fundamentals**<br>• Practiced hands-on problems related to Java I/O and stream processing<br>• Implemented stream-based programs including:<br>&nbsp;&nbsp;– **File Handling** – Read and Write Text Files<br>&nbsp;&nbsp;– **Buffered Streams** – Efficient File Copy<br>&nbsp;&nbsp;– **Console Input** – Reading User Input<br>&nbsp;&nbsp;– **Serialization** – Save and Retrieve Objects<br>&nbsp;&nbsp;– **ByteArrayStream** – Convert Image to Byte Array<br>&nbsp;&nbsp;– **Filter Streams** – Text Transformation (Uppercase ↔ Lowercase)<br>• Successfully committed and pushed all stream programs to the remote repository |
 | **`dsa-practice`** | DSA – Sorting & Tree (Scenario-Based) | • Created and organized branch folders for scenario-based practice<br>• Revised core **DSA fundamentals of Sorting and Trees**<br>• Implemented real-world scenario programs such as:<br>&nbsp;&nbsp;– **University Digital Record System**<br>&nbsp;&nbsp;– **E-Commerce Product Inventory**<br>&nbsp;&nbsp;– **Music App** – Organize Songs by Track ID (Tree-based)<br>&nbsp;&nbsp;– **TailorShop** – Sorting Orders by Delivery Deadline (Insertion Sort)<br>&nbsp;&nbsp;– **MedWarehouse** – Sorting Medicines by Expiry Date (Merge Sort)<br>• Successfully committed and pushed all scenario programs to the remote repository |
 
+
+
 ## 🔗 Code Reference
 
 | Description | Link |
@@ -979,6 +989,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`java-collection-practice`** | Java Exceptions, REGEX & Scenario-Based Systems | • Revised and understood **Java Exception Handling fundamentals**<br>• Covered different types of exceptions in detail:<br>&nbsp;&nbsp;– **Checked Exceptions** (Compile-time)<br>&nbsp;&nbsp;– **Unchecked Exceptions** (Runtime)<br>&nbsp;&nbsp;– **Custom/User-defined Exceptions**<br>&nbsp;&nbsp;– **Multiple Catch Blocks**<br>&nbsp;&nbsp;– **try-with-resources** (Auto resource management)<br>&nbsp;&nbsp;– **throw vs throws** (Exception propagation)<br><br>• Solved **real-world scenario-based problems** integrating Exceptions, Regex, I/O, Collections, and Generics:<br>&nbsp;&nbsp;– **ResumeAnalyzer** – Smart Resume Filtering System<br>&nbsp;&nbsp;– **TravelLog** – Trip Organizer for Backpackers<br>&nbsp;&nbsp;– **FeedbackGuru** – Smart Survey Analyzer<br>&nbsp;&nbsp;– **CodeRepoCleaner** – Java File Scanner & Organizer<br>&nbsp;&nbsp;– **ExamScanner** – Digital Answer Sheet Validator<br><br>• Practiced **Regex-based validations and extraction** tasks:<br>&nbsp;&nbsp;– Username validation<br>&nbsp;&nbsp;– License Plate Number validation<br>&nbsp;&nbsp;– Hex Color Code validation<br>&nbsp;&nbsp;– Extracting all Email Addresses from text<br>&nbsp;&nbsp;– Extracting Links from a Web Page<br><br>• Successfully **committed and pushed all exception, regex, and scenario-based programs** to the remote repository |
 
+
+
 ## 🔗 Code Reference
 
 | Description | Link |
@@ -999,6 +1011,7 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Branch Name | Focus Area | Work Done |
 |------------|-----------|-----------|
 | **`java-collection-practice`** | JUnit Testing, Exception Handling & Scenario-Based Applications | • Revised and strengthened **Java Exception Handling basics**<br><br>• Solved **real-world scenario-based problems** with proper validations and edge cases:<br>&nbsp;&nbsp;– **DealTracker** – E-Commerce Discount Validator<br>&nbsp;&nbsp;– **ExamResultUploader** – Bulk Marks Processing System<br>&nbsp;&nbsp;– **SongVault** – Personal Music Library Manager<br>&nbsp;&nbsp;– **ChatLogParser** – Messaging Pattern Analyzer<br><br>• Practiced **JUnit testing concepts** using practical test cases:<br>&nbsp;&nbsp;– Testing **File Handling Methods**<br>&nbsp;&nbsp;– Testing **Banking Transactions** (Credit, Debit, Balance Checks)<br>&nbsp;&nbsp;– Testing **Password Strength Validator**<br>&nbsp;&nbsp;– Testing **Temperature Converter**<br>&nbsp;&nbsp;– Testing **Date Formatter**<br>&nbsp;&nbsp;– Testing **User Registration Workflow**<br><br>• Focused on **JUnit best practices**:<br>&nbsp;&nbsp;– Proper use of assertions<br>&nbsp;&nbsp;– Boundary and edge case testing<br>&nbsp;&nbsp;– Clean and isolated test methods<br><br>• Successfully **committed and pushed all JUnit and scenario-based programs** to the remote repository |
+
 
 
 ## 🔗 Code Reference
@@ -1028,6 +1041,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`java-iostream-practice`** | CSV & JSON File Handling in Java | • Understood **Java file handling fundamentals**<br><br>• Created and worked with a **Maven-based project structure**<br><br>• Solved **JSON-related problems**:<br>&nbsp;&nbsp;– Convert a Java object (**Car**) into JSON format<br>&nbsp;&nbsp;– Convert a list of Java objects into a JSON array<br>&nbsp;&nbsp;– Read a JSON file and print all keys and values<br>&nbsp;&nbsp;– Validate an email field using **JSON Schema**<br>&nbsp;&nbsp;– Convert CSV data into JSON format<br><br>• Solved **CSV-related problems**:<br>&nbsp;&nbsp;– Read a CSV file and print data<br>&nbsp;&nbsp;– Write data into a CSV file<br>&nbsp;&nbsp;– Read and count rows in a CSV file<br>&nbsp;&nbsp;– Modify a CSV file (update a value)<br><br>• Successfully **committed and pushed all CSV & JSON programs** to the remote repository |
 | **`java-collection-practice`** | Java Reflection API & Annotations | • Revised **Java Collections basics**<br><br>• Solved **Reflection API problems**:<br>&nbsp;&nbsp;– Get class information at runtime<br>&nbsp;&nbsp;– Access private fields using reflection<br>&nbsp;&nbsp;– Invoke private methods dynamically<br>&nbsp;&nbsp;– Retrieve annotations at runtime<br>&nbsp;&nbsp;– Access and modify static fields<br><br>• Solved **Annotations-related problems**:<br>&nbsp;&nbsp;– `@Override`<br>&nbsp;&nbsp;– `@Deprecated`<br>&nbsp;&nbsp;– Custom Annotation<br>&nbsp;&nbsp;– Repeatable Annotation<br><br>• Successfully **committed and pushed all reflection & annotation programs** to the remote repository |
 
+
+
 ## 🔗 Code Reference
 
 | Description | Link |
@@ -1050,6 +1065,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`java8-practice`** | Java 8 – Functional Interfaces & Lambda Expressions | • Created and set up a **new GitHub branch** for Java 8 practice<br><br>• Successfully **pushed all files** to the remote repository<br><br>• Designed a **clear branch structure** for Java 8 programs:<br>&nbsp;&nbsp;– `gcr-codebase/functionalinterface`<br>&nbsp;&nbsp;– `gcr-codebase/lambdaexpr`<br><br>• Solved **Lambda Expression–based real-time problems**:<br>&nbsp;&nbsp;– **Smart Home Lighting Automation**<br>&nbsp;&nbsp;– **Custom Sorting in E-Commerce**<br>&nbsp;&nbsp;– **Name Uppercasing using Lambda**<br><br>• Solved **Functional Interface–based programs**:<br>&nbsp;&nbsp;– **Smart Device Control Interface**<br>&nbsp;&nbsp;– **Digital Payment Interface**<br>&nbsp;&nbsp;– **String Length Checker**<br>&nbsp;&nbsp;– **Password Strength Validator**<br>&nbsp;&nbsp;– **Date Format Utility**<br><br>• Practiced **Java 8 design principles**:<br>&nbsp;&nbsp;– Functional programming style<br>&nbsp;&nbsp;– Cleaner, concise code using lambdas<br>&nbsp;&nbsp;– Interface-driven development<br><br>• Successfully **committed and pushed all Java 8 programs** to the repository |
 
+
+
 ## 🔗 Code Reference
 
 | Description | Link |
@@ -1070,6 +1087,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`java8-programming-practice`** | Java 8 – Functional Interfaces | • Solved multiple **functional interface based problems**<br><br>• Implemented interface-driven real-world scenarios:<br>&nbsp;&nbsp;– **Smart Device Control Interface**<br>&nbsp;&nbsp;– **Digital Payment Interface**<br>&nbsp;&nbsp;– **String Length Checker**<br>&nbsp;&nbsp;– **Password Strength Validator**<br>&nbsp;&nbsp;– **Date Format Utility**<br><br>• Strengthened concepts of:<br>&nbsp;&nbsp;– Custom functional interfaces<br>&nbsp;&nbsp;– Lambda compatibility<br>&nbsp;&nbsp;– Single abstract method rule<br><br>• Verified execution and project structure consistency |
 
+
+
 ## 🔗 Code Reference
 
 | Description | Link |
@@ -1089,6 +1108,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`java8-programming-practice`** | Java 8 – Stream API | • Practiced **Stream API real-time problem solving**<br><br>• Implemented stream-based scenarios:<br>&nbsp;&nbsp;– **Top 5 Trending Movies**<br>&nbsp;&nbsp;– **Hospital Doctor Availability**<br>&nbsp;&nbsp;– **Insurance Claim Analysis**<br><br>• Applied stream operations:<br>&nbsp;&nbsp;– filter()<br>&nbsp;&nbsp;– map()<br>&nbsp;&nbsp;– sorted()<br>&nbsp;&nbsp;– limit()<br>&nbsp;&nbsp;– collect()<br><br>• Improved functional-style data processing skills |
 
+
+
 ## 🔗 Code Reference
 
 | Description | Link |
@@ -1107,6 +1128,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Branch Name | Focus Area | Work Done |
 |------------|-----------|-----------|
 | **`java8-programming-practice`** | Java 8 – Collectors | • Practiced **Collectors framework with Stream API**<br><br>• Solved grouping & aggregation scenarios:<br>&nbsp;&nbsp;– **Student Result Grouping**<br>&nbsp;&nbsp;– **Word Frequency Counter**<br>&nbsp;&nbsp;– **Order Revenue Summary**<br><br>• Used collector operations:<br>&nbsp;&nbsp;– groupingBy()<br>&nbsp;&nbsp;– counting()<br>&nbsp;&nbsp;– summarizing()<br>&nbsp;&nbsp;– mapping()<br><br>• Strengthened stream-to-collection transformations |
+
+
 
 ## 🔗 Code Reference
 
@@ -1133,6 +1156,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`java8-programming-practice`** | Java 8 – Comparator & Consumer | • Solved real-world **Comparator scenarios**:<br><br>&nbsp;&nbsp;– **AccountComparator**<br>&nbsp;&nbsp;– **EmployeeComparator**<br>&nbsp;&nbsp;– **StringLengthComparator**<br>&nbsp;&nbsp;– **ProductComparator**<br><br>• Practiced **Consumer functional interface** use cases:<br><br>&nbsp;&nbsp;– **AccountBalanceConsumer**<br>&nbsp;&nbsp;– **EmployeeLoginConsumer**<br>&nbsp;&nbsp;– **OrderConfirmationConsumer**<br>&nbsp;&nbsp;– **StudentConsumer**<br><br>• Improved understanding of:<br>&nbsp;&nbsp;– Custom sorting logic<br>&nbsp;&nbsp;– Lambda expressions<br>&nbsp;&nbsp;– Side-effect based operations |
 
+
+
 ## 🔗 Code Reference
 
 | Description | Link |
@@ -1152,6 +1177,8 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 |------------|-----------|-----------|
 | **`java8-programming-practice`** | Java 8 – Custom Lambda Scenarios | • Solved real-world problems using **custom lambda expressions**:<br><br>&nbsp;&nbsp;– **Bonus Calculator**<br>&nbsp;&nbsp;– **Loan Eligibility Checker**<br>&nbsp;&nbsp;– **Tax Calculator**<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Functional interfaces<br>&nbsp;&nbsp;– Business logic via lambdas<br>&nbsp;&nbsp;– Clean and readable lambda design |
 | **`java-design-pattern-practice`** | Core Design Patterns | • Created and configured **GitHub branch**<br>• Successfully pushed code to **remote repository**<br>• Designed proper **project & package structure**<br><br>• Studied and implemented key design patterns:<br><br>&nbsp;&nbsp;– **Singleton Pattern**<br>&nbsp;&nbsp;– **Observer Pattern**<br>&nbsp;&nbsp;– **Driver Pattern**<br>&nbsp;&nbsp;– **Factory Pattern**<br>&nbsp;&nbsp;– **Abstract Factory Pattern**<br><br>• Solved real-world problem:<br>&nbsp;&nbsp;– **Smart University Library Management System** |
+
+
 
 ## 🔗 Code Reference
 
@@ -1174,12 +1201,37 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | **`java8-programming-practice`** | Java 8 – Stream API, Functional Interfaces & Lambda Expressions | • Solved real-world problems using **lambda expressions**:<br><br>&nbsp;&nbsp;– **AnnualSalaryFunction**<br>&nbsp;&nbsp;– **EmployeeNameUppercaseFunction**<br>&nbsp;&nbsp;– **StudentGradeFunction**<br><br>• Solved real-world problems using **custom lambda scenarios**:<br><br>&nbsp;&nbsp;– **BasicLambdaScenario**<br>&nbsp;&nbsp;– **EcommerceLambdaScenario**<br>&nbsp;&nbsp;– **BankingLambdaScenario**<br><br>• Solved logical problems using **Stream API**:<br><br>&nbsp;&nbsp;– **All Non-Repeating Characters**<br>&nbsp;&nbsp;– **Character Frequency Count**<br>&nbsp;&nbsp;– **Remove Non-Alphanumeric Characters**<br>&nbsp;&nbsp;– **Remove Duplicate Characters**<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Functional interfaces (Function, Predicate, Consumer, Supplier)<br>&nbsp;&nbsp;– Lambda expressions in real business logic<br>&nbsp;&nbsp;– Stream API transformations and filtering<br>&nbsp;&nbsp;– Writing clean, readable, and functional-style code |
 | **`java-design-pattern-practice`** | Java – Multithreading & Concurrent Programming | • Solved real-world multithreading problems:<br><br>&nbsp;&nbsp;– **Banking System with Multiple Transactions**<br>&nbsp;&nbsp;– **Download Manager Simulation**<br>&nbsp;&nbsp;– **Print Shop Job Scheduler**<br>&nbsp;&nbsp;– **Restaurant Order Processing System**<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Thread creation using Runnable and Thread<br>&nbsp;&nbsp;– Concurrent execution and task handling<br>&nbsp;&nbsp;– Synchronization and thread safety concepts<br>&nbsp;&nbsp;– Real-world multithreading system design |
 
+
+
 ## 🔗 Code Reference
 
 | Description | Link |
 |------------|------|
 | Day 43 – Stream API, Functional & Lambda Scenarios Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com* |
 | Day 43 – Multithreading Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-design-pattern-practice/design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading* |
+
+---
+
+# 📘 Day 44 – Scenarios on Supplier & Multithreading  
+📅 **Date:** 06-Feb-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`java8-programming-practice`** | Java 8 – Functional Interfaces (Supplier) & Data Modeling | • Solved scenario-based problems using **Supplier interface**:<br><br>&nbsp;&nbsp;– **CouponSupplier**<br>&nbsp;&nbsp;– **DateTimeSupplier**<br>&nbsp;&nbsp;– **OtpSupplier**<br>&nbsp;&nbsp;– **StudentIdSupplier**<br>&nbsp;&nbsp;– **WelcomeMessageSupplier**<br><br>• Practiced **data modeling using Java classes**:<br><br>&nbsp;&nbsp;– **Account**<br>&nbsp;&nbsp;– **Employee**<br>&nbsp;&nbsp;– **Product**<br>&nbsp;&nbsp;– **Student**<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Supplier functional interface<br>&nbsp;&nbsp;– Lazy value/object generation<br>&nbsp;&nbsp;– Clean data modeling using real-world entities<br>&nbsp;&nbsp;– Functional programming use-cases in Java |
+| **`java-design-pattern-practice`** | Java – Multithreading & Concurrent Banking System | • Solved real-world **multithreading scenarios**:<br><br>&nbsp;&nbsp;– **Bank Transactions using multiple threads**<br><br>• Implemented a **simple banking system** supporting concurrent transactions:<br><br>&nbsp;&nbsp;– Multiple customer accounts<br>&nbsp;&nbsp;– Shared account balance handling<br>&nbsp;&nbsp;– Thread-safe transaction execution<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Thread creation and execution<br>&nbsp;&nbsp;– Concurrent access to shared resources<br>&nbsp;&nbsp;– Synchronization and thread safety<br>&nbsp;&nbsp;– Designing real-world multithreaded systems |
+
+
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 44 – Supplier Scenarios Programs | 👉 *Day 44 – Scenarios Programs* |
+| Day 44 – Multithreading Programs | 👉 *Day 44 – Multithreading Programs* |
 
 ---
 
