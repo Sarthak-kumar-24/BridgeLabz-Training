@@ -1,3 +1,119 @@
+# 📈 Full-Stack Java Learning Path  
+**Core Java → OOP → DSA → Modern Java**
+
+A structured hands-on learning journey covering Java fundamentals, Object-Oriented Programming, Data Structures & Algorithms, modern Java features, and real-world scenario-based system design.
+
+---
+---
+
+## 📅 Week 1 – Java & Git Foundations  
+**Dates:** 15, 16, 17, 18, 19, 20dec
+
+| Day | Date | Focus Area | Work Summary |
+|-----|------|------------|--------------|
+| Day 1 | 15-Dec-2025 | Git & GitHub Setup | Git installation, GitHub repo setup, branching basics |
+| Day 2 | 16-Dec-2025 | Git Workflow & Java Basics | Git lifecycle practice, basic Java programs |
+| Day 3 | 17-Dec-2025 | Programming Elements | Variables, data types, operators, I/O |
+| Day 4 | 18-Dec-2025 | Control Flow | Conditions, loops, logical problems |
+| Day 5 | 19-Dec-2025 | Arrays | 1D & 2D arrays, traversal logic |
+| Day 6 | 20-Dec-2025 | Methods | Reusable methods, modular programming |
+
+---
+
+## 📅 Week 2 – Strings, Utilities & LeetCode Intro  
+**Dates:** 22, 23, 24, 26, 27dec
+
+| Day | Date | Focus Area | Work Summary |
+|-----|------|------------|--------------|
+| Day 7 | 22-Dec-2025 | Strings | String creation, methods, manipulation |
+| Day 8 | 23-Dec-2025 | Built-in APIs & Exceptions | Math, Random, Date-Time API |
+| Day 9 | 24-Dec-2025 | Scenario-Based Programming | Coffee Counter, BMI Tracker |
+| Day 10 | 26-Dec-2025 | LeetCode & OOP Intro | Two Sum, Median Array |
+| Day 11 | 27-Dec-2025 | Constructors | Constructors, instance vs class vars |
+
+---
+
+## 📅 Week 3 – Core OOP Concepts  
+**Dates:** 29, 30, 31, 1, 2, 3jan
+
+| Day | Date | Focus Area | Work Summary |
+|----|------|-----------|--------------|
+| Day 12 | 29-Dec-2025 | static & this | Static members, this keyword, system-based programs |
+| Day 13 | 30-Dec-2025 | Object Modelling | Association, Aggregation, Composition with real-world models |
+| Day 14 | 31-Dec-2025 | Inheritance | Single, Multilevel, Hierarchical, Hybrid inheritance |
+| Day 15 | 01-Jan-2026 | OOP Pillars | Encapsulation, Polymorphism, Abstraction |
+| Day 16 | 02-Jan-2026 | OOP Scenarios | E-Wallet, Smart Home, University Enrollment |
+| Day 17 | 03-Jan-2026 | DSA Foundations | Linked List, Stack, Queue, HashMap with OOP scenarios |
+
+---
+
+## 📅 Week 4 – DSA & Performance Thinking  
+**Dates:** 5, 6, 7, 8, 9, 10jan
+
+| Day | Date | Focus Area | Work Summary |
+|----|------|-----------|--------------|
+| Day 18 | 05-Jan-2026 | Sorting Algorithms | Bubble, Quick, Insertion, Selection with scenarios |
+| Day 19 | 06-Jan-2026 | Searching | Linear & Binary Search, StringBuilder & Buffer |
+| Day 20 | 07-Jan-2026 | ⏱ Runtime Analysis | Time complexity comparison, performance-based scenarios |
+| Day 21 | 08-Jan-2026 | LeetCode + OOP | Stack & array problems, TourMate, MediStore |
+| Day 22 | 09-Jan-2026 | OOP Scenarios | Artify, FoodLoop, SkillForge |
+| Day 23 | 10-Jan-2026 | DSA Scenarios | BookShelf, BrowserBuddy, AmbulanceRoute |
+
+---
+
+## 📅 Week 5 – Advanced DSA & OOP Scenarios  
+**Dates:** 12, 13, TCS, 15, 16, 17jan
+
+| Day | Date | Focus Area | Work Summary |
+|----|------|-----------|--------------|
+| Day 24 | 12-Jan-2026 | DSA + OOP Scenarios | Queue, Stack, Linked-List based systems |
+| Day 25 | 13-Jan-2026 | LeetCode + Backtracking | Combination Sum, First Missing Positive |
+| Day 26 | 15-Jan-2026 | Sorting, Trees & Generics | Sorting scenarios, Binary Trees, advanced Generics |
+| Day 27 | 16-Jan-2026 | Java Collections | List, Set, Queue, Map interface problems |
+| Day 28 | 17-Jan-2026 | Sorting Scenarios | IceCreamRush, FleetManager, SmartLibrary |
+
+---
+
+## 📅 Week 6 – Algorithms, Trees & Streams  
+**Dates:** 19, 20, 21, 22, 23, 24jan
+
+| Day | Date | Focus Area | Work Summary |
+|----|------|-----------|--------------|
+| Day 29 | 19-Jan-2026 | Sorting + OOP | Ranking systems, Address Book |
+| Day 30 | 20-Jan-2026 | Sorting Scenarios | MovieTime, FoodFest, GamerZone |
+| Day 31 | 21-Jan-2026 | Streams & Trees | Streams, File I/O, Serialization, Tree systems |
+| Day 32 | 22-Jan-2026 | AVL Trees | Self-balancing tree scenarios |
+| Day 33 | 23-Jan-2026 | Exceptions & Regex | Validation-heavy systems |
+| Day 34 | 24-Jan-2026 | 🧪 JUnit Testing | Unit testing for banking & validation systems |
+
+---
+
+## 📅 Week 7 – File Handling, Reflection & Java 8  
+**Dates:** 27, 28, 29, 30, 31jan
+
+| Day | Date | Focus Area | Work Summary |
+|----|------|-----------|--------------|
+| Day 35 | 27-Jan-2026 | File Handling & Reflection | CSV/JSON, Reflection API, Annotations |
+| Day 36 | 28-Jan-2026 | Java 8 Basics | Functional Interfaces, Lambda Expressions |
+| Day 37 | 29-Jan-2026 | Functional Interfaces | Custom functional interfaces |
+| Day 38 | 30-Jan-2026 | Stream API | Stream-based analytics |
+| Day 39 | 31-Jan-2026 | Collectors | groupingBy, counting, summarizing |
+
+---
+
+## 📅 Week 8 – Advanced Java & Concurrency  
+**Dates:** 2, 3, 4, 5, 6, 7feb
+
+| Day | Date | Focus Area | Work Summary |
+|----|------|-----------|--------------|
+| Day 41 | 02-Feb-2026 | Comparator & Consumer | Sorting logic and workflow consumers |
+| Day 42 | 03-Feb-2026 | Custom Lambdas | Business logic using lambdas |
+| Day 43 | 04-Feb-2026 | Design Patterns | Singleton, Factory, Observer, Abstract Factory |
+
+---
+
+
+
 # 📅 Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
