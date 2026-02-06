@@ -45,3 +45,16 @@ BridgeLabz-Training/
 👉 [Day 43 – multi-threading Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-design-pattern-practice/design-pattern-practice/gcr-codebase/DesignPatternPractice/src/com/multithreading)
 
 ---
+
+## 📘 Day 44 – Scenarios on Multi threading
+**Date:** 06feb-2026  
+
+- solved problms on multithreading
+  - Bank Transactions
+- implementing a simple banking system that supports concurrent transactions
+- The bank has multiple customer accounts, and each account has a balance.
+ 
+🔗 **Code Reference:**  
+👉 [Day 44 – multi-threading Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java-design-pattern-practice/design-pattern-practice/scenario-based-codebase/DesigningScenarios/src/com/banktransactions)
+
+---
