@@ -126,3 +126,23 @@ BridgeLabz-Training/
 👉 [Day 43 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/)
 
 ---
+
+## 📘 Day 44 – Scenarios on Supplier Interface
+**Date:** 06Feb-2026  
+
+- solved problms on Supplier
+  - CouponSupplier
+  - DateTimeSupplier
+  - OtpSupplier
+  - StudentIdSupplier
+  - WelcomeMessageSupplier
+- solved problms on modeling the data
+  - Account
+  - Employee
+  - Product
+  - Student
+ 
+🔗 **Code Reference:**  
+👉 [Day 44 – Scenarios Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/java8-programmming-practice/java8-practice/scenario-based-codebase/Java8Scenarios/src/com/functional)
+
+---
