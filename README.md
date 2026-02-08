@@ -110,6 +110,8 @@ A structured hands-on learning journey covering Java fundamentals, Object-Orient
 | Day 42 | 04-Feb-2026 | Custom Lambdas | Business logic using lambdas |
 | Day 43 | 05-Feb-2026 | Design Patterns & multithreading | Singleton, Factory, Observer, Abstract Factory |
 | Day 44 | 06-Feb-2026 | Supplier & Multithreading | Solved Supplier interface scenarios, modeled real-world entities, and implemented a concurrent banking system using multithreading |
+| Day 45 | 07-Feb-2026 | MySQL | Designed relational schemas, executed MySQL queries and practiced transaction management with real-world systems |
+
 
 ---
 ---
@@ -1234,6 +1236,30 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Day 44 – Multithreading Programs | 👉 *Day 44 – Multithreading Programs* |
 
 ---
+
+# 📘 Day 45 – MySQL Queries Practice  
+📅 **Date:** 07-Feb-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`dbms-jdbc-practice`** | MySQL – Database Design & Queries | • Designed and implemented **MySQL schemas** for real-world systems:<br><br>&nbsp;&nbsp;– Employee Management System<br>&nbsp;&nbsp;– Transaction Management System<br>&nbsp;&nbsp;– Library Management System<br><br>• Executed **DDL & DML queries**:<br><br>&nbsp;&nbsp;– Database & table creation<br>&nbsp;&nbsp;– Insert, update, delete, select queries<br>&nbsp;&nbsp;– Primary & foreign key constraints<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Relational database design<br>&nbsp;&nbsp;– Data integrity & consistency |
+| **`gcr-codebase`** | JDBC & Git Workflow | • Created and organized **JDBC project structure**:<br><br>&nbsp;&nbsp;– `src/main/java/com/mysql/jdbc`<br><br>• Implemented **JDBC connectivity** between Java and MySQL<br><br>• Practiced **Git operations**:<br><br>&nbsp;&nbsp;– Created GitHub branch<br>&nbsp;&nbsp;– Pushed code to remote repository<br><br>• Improved understanding of:<br>&nbsp;&nbsp;– JDBC workflow<br>&nbsp;&nbsp;– Clean package structuring<br>&nbsp;&nbsp;– Version control using Git |
+
+
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| Day 45 – MySQL Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcPractice/src/main/java/com/mysql* |
+
+---
+
+
 
 
 
