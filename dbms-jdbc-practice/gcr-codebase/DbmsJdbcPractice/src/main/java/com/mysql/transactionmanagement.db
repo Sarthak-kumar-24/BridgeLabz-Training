@@ -1,0 +1,174 @@
+-- -----------------------------------------
+-- STEP 1: Create Database
+-- -----------------------------------------
+CREATE DATABASE bank_db;
+USE bank_db;
+
+
+
+
+
+
+
+
+-- -----------------------------------------
+-- STEP 2: Create Accounts Table
+-- This table stores bank account details
+-- -----------------------------------------
+CREATE TABLE accounts (
+    account_id INT PRIMARY KEY AUTO_INCREMENT,
+    account_holder VARCHAR(100) NOT NULL,
+    balance DECIMAL(10,2) NOT NULL
+);
+
+
+
+
+
+-- -----------------------------------------
+-- STEP 3: Create Transactions Table
+-- This table stores transaction history
+-- -----------------------------------------
+CREATE TABLE transactions (
+    txn_id INT PRIMARY KEY AUTO_INCREMENT,
+    from_account INT,
+    to_account INT,
+    amount DECIMAL(10,2),
+    txn_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    status VARCHAR(20)
+);
+
+
+
+
+
+
+-- -----------------------------------------
+-- STEP 4: Insert Account Data
+-- -----------------------------------------
+INSERT INTO accounts (account_holder, balance)
+VALUES ('Rahul Sharma', 50000);
+
+INSERT INTO accounts (account_holder, balance)
+VALUES ('Ananya Singh', 30000);
+
+INSERT INTO accounts (account_holder, balance)
+VALUES ('Rahul Singh', 50000);
+
+INSERT INTO accounts (account_holder, balance)
+VALUES ('DeviJii', 30000);
+
+
+
+
+--------------------------------------------
+-- STEP 5: View All Accounts
+--------------------------------------------
+
+SELECT * FROM accounts;
+
++------------+----------------+----------+
+| account_id | account_holder | balance  |
++------------+----------------+----------+
+| 1          | Rahul Sharma   | 50000.00 |
+| 2          | Ananya Singh   | 30000.00 |
+| 3          | Rahul singh    | 50000.00 |
+| 4          | DevJii Singh   | 30000.00 |
++------------+----------------+----------+
+
+
+
+
+
+
+--------------------------------------------
+-- STEP 6: Start Transaction
+-- Used to ensure atomicity of money transfer
+--------------------------------------------
+START TRANSACTION;
+
+-- -----------------------------------------
+-- STEP 7: Debit money from sender account
+-- Rahul Sharma (account_id = 1) loses 10000
+-- -----------------------------------------
+UPDATE accounts
+SET balance = balance - 10000
+WHERE account_id = 1;
+
+
+
+
+
+
+--------------------------------------------
+-- STEP 8: Credit money to receiver account
+-- Ananya Singh (account_id = 2) gains 10000
+--------------------------------------------
+UPDATE accounts
+SET balance = balance + 10000
+WHERE account_id = 2;
+
+
+
+
+
+--------------------------------------------
+-- STEP 9: Insert transaction record
+-- Logs the successful transfer
+--------------------------------------------
+INSERT INTO transactions (from_account, to_account, amount, status)
+VALUES (1, 2, 10000, 'SUCCESS');
+
+
+
+
+-- -----------------------------------------
+-- STEP 10: Commit Transaction
+-- Makes all changes permanent
+-- -----------------------------------------
+COMMIT;
+
+--------------------------------------------
+-- STEP 11: View Accounts After Transfer
+-- Verifies updated balances
+--------------------------------------------
+
+SELECT * FROM accounts;
+
++------------+----------------+----------+
+| account_id | account_holder | balance  |
++------------+----------------+----------+
+| 1          | Rahul Sharma   | 40000.00 |
+| 2          | Ananya Singh   | 40000.00 |
+| 3          | Rahul singh    | 50000.00 |
+| 4          | DevJii Singh   | 30000.00 |
++------------+----------------+----------+
+
+
+
+
+--------------------------------------------
+-- STEP 12: Check Balance of a Specific Account
+--------------------------------------------
+SELECT account_holder, balance
+FROM accounts
+WHERE account_id = 1;
+
++----------------+----------+
+| account_holder | balance  |
++----------------+----------+
+| Rahul Sharma   | 40000.00 |
++----------------+----------+
+
+
+--------------------------------------------
+-- STEP 13: View Transaction History
+--------------------------------------------
+SELECT * FROM transactions;
+
++--------+--------------+------------+----------+---------------------+----------+
+| txn_id | from_account | to_account | amount   | txn_date            | status   |
++--------+--------------+------------+----------+---------------------+----------+
+| 1      | 1            | 2          | 10000.00 | 2026-02-07 22:03:47 | SUCCESS  |
++--------+--------------+------------+----------+---------------------+----------+
+
