@@ -1,0 +1,148 @@
+-- =========================================
+-- EXERCISE 3: ADVANCED FEATURES
+-- LIBRARY MANAGEMENT SYSTEM
+-- =========================================
+
+
+-- -----------------------------------------
+-- STEP 1: Create Database
+-- -----------------------------------------
+CREATE DATABASE library_db;
+USE library_db;
+
+
+-- -----------------------------------------
+-- STEP 2: Create Books Table
+-- Stores book inventory details
+-- -----------------------------------------
+CREATE TABLE books (
+    book_id INT PRIMARY KEY AUTO_INCREMENT,     -- Unique book ID
+    title VARCHAR(150) NOT NULL,                 -- Book title
+    author VARCHAR(100) NOT NULL,                -- Author name
+    category VARCHAR(50),                        -- Book category
+    total_copies INT NOT NULL,                   -- Total copies
+    available_copies INT NOT NULL                -- Copies available
+);
+
+
+-- -----------------------------------------
+-- STEP 3: Create Students Table
+-- Stores student details
+-- -----------------------------------------
+CREATE TABLE students (
+    student_id INT PRIMARY KEY AUTO_INCREMENT,  -- Unique student ID
+    student_name VARCHAR(100) NOT NULL,          -- Student name
+    course VARCHAR(50)                           -- Course name
+);
+
+
+-- -----------------------------------------
+-- STEP 4: Create Borrow Records Table
+-- Stores book borrowing details
+-- -----------------------------------------
+CREATE TABLE borrow_records (
+    borrow_id INT PRIMARY KEY AUTO_INCREMENT,   -- Borrow record ID
+    student_id INT,                              -- Student ID
+    book_id INT,                                 -- Book ID
+    borrow_date DATE,                            -- Date of borrowing
+    return_date DATE,                            -- Date of return
+    fine DECIMAL(10,2),                          -- Fine amount
+    FOREIGN KEY (student_id) REFERENCES students(student_id),
+    FOREIGN KEY (book_id) REFERENCES books(book_id)
+);
+
+
+-- -----------------------------------------
+-- STEP 5: Insert Book Inventory Data
+-- -----------------------------------------
+INSERT INTO books (title, author, category, total_copies, available_copies)
+VALUES ('Operating Systems', 'Galvin', 'CS', 5, 5);
+
+INSERT INTO books (title, author, category, total_copies, available_copies)
+VALUES ('Database Systems', 'Korth', 'CS', 3, 3);
+
+INSERT INTO books (title, author, category, total_copies, available_copies)
+VALUES ('Physics Fundamentals', 'Resnick', 'Science', 4, 4);
+
+
+-- -----------------------------------------
+-- STEP 6: Insert Student Data
+-- -----------------------------------------
+INSERT INTO students (student_name, course)
+VALUES ('Sarthak Singh', 'CSE');
+
+INSERT INTO students (student_name, course)
+VALUES ('DeviJii', 'CSE');
+
+
+-- -----------------------------------------
+-- STEP 7: Student Borrows a Book
+-- -----------------------------------------
+INSERT INTO borrow_records (student_id, book_id, borrow_date)
+VALUES (1, 1, CURDATE());
+
+-- Reduce available copies after borrowing
+UPDATE books
+SET available_copies = available_copies - 1
+WHERE book_id = 1;
+
+
+-- -----------------------------------------
+-- STEP 8: View Borrowing Records
+-- -----------------------------------------
+SELECT 
+    b.borrow_id,
+    s.student_name,
+    bk.title,
+    b.borrow_date,
+    b.return_date,
+    b.fine
+FROM borrow_records b
+JOIN students s ON b.student_id = s.student_id
+JOIN books bk ON b.book_id = bk.book_id;
+
++-----------+---------------+-------------------+-------------+-------------+------+
+| borrow_id | student_name  | title             | borrow_date | return_date | fine |
++-----------+---------------+-------------------+-------------+-------------+------+
+| 1         | Sarthak Singh | Operating Systems | 2026-02-07  | NULL        | NULL |
++-----------+---------------+-------------------+-------------+-------------+------+
+
+
+
+-- -----------------------------------------
+-- STEP 9: Fine Calculation
+-- Rule: ₹10 per day after 7 days
+-- -----------------------------------------
+UPDATE borrow_records
+SET fine = DATEDIFF(CURDATE(), borrow_date) * 10
+WHERE borrow_id = 1;
+
+
+-- -----------------------------------------
+-- STEP 10: Return Book
+-- -----------------------------------------
+UPDATE borrow_records
+SET return_date = CURDATE()
+WHERE borrow_id = 1;
+
+-- Increase available copies after return
+UPDATE books
+SET available_copies = available_copies + 1
+WHERE book_id = 1;
+
+
+-- -----------------------------------------
+-- STEP 11: Search Books (Multiple Filters)
+-- -----------------------------------------
+SELECT *
+FROM books
+WHERE author = 'Galvin'
+  AND category = 'CS'
+  AND available_copies > 0;
+
+  +---------+-------------------+--------+----------+--------------+------------------+
+| book_id | title             | author | category | total_copies | available_copies |
++---------+-------------------+--------+----------+--------------+------------------+
+| 1       | Operating Systems | Galvin | CS       | 5            | 5                |
++---------+-------------------+--------+----------+--------------+------------------+
+  
