@@ -30,3 +30,16 @@ BridgeLabz-Training/
 👉 [mysql Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcPractice/src/main/java/com/mysql)
 
 ---
+
+## 📘 Day 48 – JDBC Queires
+**Date:** 11Feb-2026  
+
+- solved problems on jdbc
+  - Employee Management System
+  - Transaction management
+  - Library Management
+ 
+🔗 **Code Reference:**  
+👉 [jdbc Programs](https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcPractice/src/main/java/com/jdbc)
+
+---
