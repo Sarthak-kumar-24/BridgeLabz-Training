@@ -111,7 +111,16 @@ A structured hands-on learning journey covering Java fundamentals, Object-Orient
 | Day 43 | 05-Feb-2026 | Design Patterns & multithreading | Singleton, Factory, Observer, Abstract Factory |
 | Day 44 | 06-Feb-2026 | Supplier & Multithreading | Solved Supplier interface scenarios, modeled real-world entities, and implemented a concurrent banking system using multithreading |
 | Day 45 | 07-Feb-2026 | MySQL | Designed relational schemas, executed MySQL queries and practiced transaction management with real-world systems |
+| Day 48 | 11-Feb-2026 | JDBC | executed jdbc queries and practiced transaction management with real-world systems |
 
+---
+
+## 📅 Week 9 – Advanced Java & Concurrency  
+**Dates:** 9, 10, 11, 12, 13, 14feb
+
+| Day | Date | Focus Area | Work Summary |
+|----|------|-----------|--------------|
+| Day 48 | 11-Feb-2026 | JDBC | executed jdbc queries and practiced transaction management with real-world systems |
 
 ---
 ---
@@ -1256,6 +1265,27 @@ Focused on strengthening Scenarios understanding and writing Java programs to ge
 | Description | Link |
 |------------|------|
 | Day 45 – MySQL Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcPractice/src/main/java/com/mysql* |
+
+---
+
+# 📘 Day 48 – JDBC Queries Practice  
+📅 **Date:** 11-Feb-2026  
+
+---
+
+## 🌿 Work Summary
+
+| Branch Name | Focus Area | Work Done |
+|------------|-----------|-----------|
+| **`dbms-jdbc-practice`** | JDBC Queries & Database Operations | • Solved multiple **JDBC-based problems** using Java<br><br>• Implemented real-world systems using JDBC:<br><br>&nbsp;&nbsp;– Employee Management System<br>&nbsp;&nbsp;– Transaction Management System<br>&nbsp;&nbsp;– Library Management System<br><br>• Practiced core JDBC concepts:<br><br>&nbsp;&nbsp;– Establishing database connections<br>&nbsp;&nbsp;– Executing SQL queries using JDBC<br>&nbsp;&nbsp;– Handling result sets<br>&nbsp;&nbsp;– Managing database transactions<br><br>• Strengthened understanding of:<br>&nbsp;&nbsp;– Java–Database interaction<br>&nbsp;&nbsp;– Data persistence using JDBC |
+
+---
+
+## 🔗 Code Reference
+
+| Description | Link |
+|------------|------|
+| JDBC Programs | 👉 *https://github.com/Sarthak-kumar-24/BridgeLabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/DbmsJdbcPractice/src/main/java/com/jdbc* |
 
 ---
 
